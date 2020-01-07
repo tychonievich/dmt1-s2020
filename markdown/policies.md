@@ -6,7 +6,7 @@ title: Policies
 
 ## Meetings
 
-We will meet Monday, Wednesday, and Friday, 3:30–4:20, in Ruffner G008.
+We will meet Monday, Wednesday, and Friday, 10:00–10:50, in Rice 130.
 
 Monday and Wednesday lecture is optional, but strongly encouraged.
 Friday lecture will often be used for in-class evaluation:
@@ -15,19 +15,26 @@ some mini exams.
 
 I do not schedule review sessions or the like outside of usual class time.
 
-## Tasks
+## Tasks {#tasks}
 
 You will be expected to read instructional material and either understand it or ask questions to clarify what you found confusing. We strongly recommend forming study groups that meet at least weekly all semester long to discuss readings, as even if they appear simple at first they will often contain nuances that will only emerge with conversions.
 
-You will be given take-home assignments, given online and auto-graded.
+You will be asked to perform three kinds of evaluations:
 
-We will have miniature exams in class every week instead of one or two larger midterms. The first of these will be on Friday 6 September; we have not decided if they will be on Wednesdays or Fridays thereafter.
+- In-class lab activities: ungraded exercises intended to help you learn.
+- In-class quizzes (IQ): graded exercises intended to help determine your level of understanding.
+- Online quizzes (OQ): graded exercises intended to help determine your level of understanding.
+
+At the end of the semester, you will also be able to take a final quiz, which is graded and is intended to help you show increased mastery of topics where you previously failed to show mastery.
 
 ## Contact
 
+To appear
+
+<!--
 |        | Instructor | TAs |
 |--------|------------|-----|
-| Name | Luther Tychonievich | Alicia Byrne, David Gravelink, Sarah Meng, Conner Steenrod, Anthony Taylor, Eric Wang |
+| Name | Luther Tychonievich |  |
 | Location | Rice 208 | See [the OH page](oh.html) |
 | Office Hours | Monday 10:00–11:00<br/>Tuesday 13:00–15:00<br/>Friday 11:00–12:00 | See [the OH page](oh.html) |
 | Phone | 243-3789 | (none) |
@@ -38,18 +45,20 @@ If you email, include either "DMT1" or "2102" in the subject line to prevent you
 
 Our TAs are students too, with duties and work outside of their TAing. Please do not ask them to act as your TA except at the scheduled on-the-clock times they have listed as their office hours and lab time. They are also kind people; please don't put them in the position of having to say no or (worse) being nice to you at the expense of their own schooling.
 
+-->
+
 ## Readings
 
 We will primarily use the free online textbook *Mathematics for Computer Science* by Eric Lehman, Thomson Leighton, and Albert Meyer,
 available both [on our site](files/mcs.pdf)
 and [on MIT's site](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/MIT6_042JS15_textbook.pdf).
-Readings that begin § refer to sections of that book;
-for example, "§1.7" refers to the section "Proof by Cases".
+Readings that begin MCS refer to sections of that book;
+for example, "MCS 1.7" refers to the section "Proof by Cases".
 
 We will also sometimes refer to the free online textbook *forall x Calgary Remix* by P D Mangus *et al*,
 available both [on our site](files/forallx.pdf)
 and [from the Open Logic Project](http://forallx.openlogicproject.org/).
-Readings from *forall x* will be noted with ∀x and then the section number;
+Readings that begin "∀x" refer to sections of that book;
 for example, "∀x 15.1" refers to the section "The idea of a formal proof".
 
 I will use ".0" to mean "the text before .1";
@@ -82,19 +91,17 @@ F       less than minimal competence        retake this course first
     Most of our courses depend on CS 2102 topics in some way.
     Theory (CS 3102), Algo (CS 4102), and the pilot's DSA2 all have strong dependencies, as do many of our electives.
 
-These goals do not map perfectly to numeric scores. If you get full or nearly full points on all graded tasks, you should expect an A. If you miss non-trivial numbers of points or deadlines, we may attempt to assess your standing on this subjective scale in lieu of a raw point-based grade.
+This will be measured in the following way:
 
-In re raw points, the intent is to put half weight on supervised assessments (i.e., in class evaluations on Fridays) and the other half on unsupervised (i.e., online homework).
-If you earn at least 93% of the points, you will earn an A.
-If you earn less, you will likely be given a lower grade.
-We expect this will approximate the usual 10%-per-letter breakdown, but will attempt to diagnose particular learning outcomes and mastery levels rather than being constrained to pure mechanical grade computation.
+- Every [OQ question and IQ rubric item](#tasks) will be assigned to one or more of several key concepts.
+- The combined set of items in a concept will be assigned a label from the set {insufficient, competent, mastery}.
+- Different mixes of scores in different concepts will correspond to different final letter grades.
 
+Missed IQ and OQ evaluations will not be rescheduled, extended, nor made up during the semester.
 
-## Submitting late
+The final quiz will be an opportunity to show mastery in topics that you failed to show mastery of during the semester, whether because you failed to take the relevant assessments or because you did not perform well on them. If you do not need such an opportunity (i.e., you have already shown mastery before the final) you will not need to take the final quiz.
 
-To facilitate grading and feedback,
-late submissions will not be allowed in general.
-If you cannot make the deadlines, please talk to the professor to discuss why and to see what accommodations are needed.
+UVA does not award credit for placement tests. If you have not shown continuing evidence of engagement and learning throughout the course, the final quiz may not be enough to change that.
 
 # Miscellanea
 
@@ -115,21 +122,16 @@ if you do something you regret, the sooner you tell me the sooner (and more leni
 
 ### No plagiarism (nor anything like it)
 
-You **must** cite any and every source you consult, other than those explicitly provided by the course itself.
+The online quizzes allow consulting many resources.
+If you consult resources other than course material, you **must** cite any and every source you consult in the comments of the question.
 Talked to a friend, saw an interesting video, consulted a website, had a tutor?
-Tell us on your assignment submission!.
-
-### Understand what you submit
-
-Working together can help you learn. But make sure you learned!
-We may ask you to explain aspects of a solution you turn in,
-and may dock points if it appears you simply copied someone else's ideas (or just guessed a lot of things until one worked) without understanding them.
+Tell us!
 
 ### Obey collaboration limitations
 
-Some assignments will list how many other people you can work with on it
-(if no number is listed, the number is 0: work alone).
-We will understand if you occasionally go a little over that number, but if that becomes a pattern or if you exceed it by a large amount we may divide your points among the collaborators instead of sharing them with all.
+The online quizzes may not be done in groups or in consultation with any resource that did not exist prior to the quiz being posted.
+
+The in-class quizzes must be done on your own, with not help of any kind.
 
 ### Consequences of Dishonesty
 
@@ -143,7 +145,7 @@ If we are not able to come to an agreement, or if the case is particularly egreg
 
 ### Disability
 
-If you qualify for accommodations from [the SDAC](http://studenthealth.virginia.edu/sdac), please let me know, preferably in my office where we can discuss how your accommodations will interplay with the quiz- and assignment-based nature of this course.
+If you qualify for accommodations from [the SDAC](http://studenthealth.virginia.edu/sdac), please let me know, preferably in my office where we can discuss how your accommodations will interplay with the quiz-based nature of this course.
 
 ### Religious observances
 

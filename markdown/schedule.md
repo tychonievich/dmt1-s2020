@@ -116,7 +116,7 @@ To subscribe to the above calendar, add <http://www.cs.virginia.edu/luther/DMT1/
 
 <hr/>
 
-The <a href="https://www2.virginia.edu/registrar/exams.html#1202">final exam schedule</a> puts our final Thursday 30 April at 9:00 am. The final is an in-person on-paper exam administered in the usual classroom.
+The <a href="https://www2.virginia.edu/registrar/exams.html#1202">final exam schedule</a> puts our final quiz at Thursday 30 April at 9:00 am. The final is an in-person on-paper quiz administered in the usual classroom.
 
 Note the <a href="https://www2.virginia.edu/registrar/exams.html#1202">final exam schedule</a> *also* lists a "special exam time" for CS 2102-001 and 2102-002. We are section 2012-003 and are thus not covered by that time.
 

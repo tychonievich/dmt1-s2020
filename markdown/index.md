@@ -56,4 +56,3 @@ I hope to also have time to cover several additional topics, including
 - finite automata
 - logical reductions
 
-Because I have not taught this class before, I am not confident I will be able to fit these topics in the semester.
