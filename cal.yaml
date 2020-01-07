@@ -1,0 +1,378 @@
+Special Dates:
+  Courses begin: 2020-01-13
+  Courses end: 2020-04-28
+  Add deadline: 2020-01-27
+  Drop deadline: 2020-02-24
+  Withdraw deadline: 2020-03-16
+  MLK break: 2020-01-20
+  Spring recess:
+    start: 2020-03-07
+    end: 2020-03-15
+
+meta:
+  timezone: America/New_York
+  name: DMT1
+  lecture exam: true
+  home: https://www.cs.virginia.edu/luther/DMT1/S2020/
+  final:
+    start: 2020-04-30 09:00:00
+    duration: 180
+    room: Rice 130
+
+sections:
+  CS2102-003a:
+    type: lecture
+    room: Rice 130
+    days: [Monday, Wednesday]
+    start: 09:00:00
+    duration: 50
+  CS2102-003b:
+    type: lab
+    room: Rice 130
+    days: [Friday]
+    start: 09:00:00
+    duration: 50
+
+
+lectures:
+    - welcome
+    - [propositions, operators]
+    - truth tables
+
+    - equivalence rules
+    - equivalence proofs
+
+    - predicates
+    - quantifiers
+
+    - sets
+    - sets
+
+    - data types
+    - data types
+    
+    - cardinality
+
+    - [contradiction, induction]
+    - induction
+
+    - summation
+    - combination
+
+    - permutation
+    - counting proofs
+
+    - automata
+    - automata
+
+    - primes
+    - logs
+    
+    - graphs
+    - graphs
+
+    - and beyond
+    
+    - review
+    - review
+
+
+labs:
+    - real maths
+    - lab01
+    - lab02
+    - lab03
+    - lab04
+    - lab05
+    - contradiction
+    - lab06
+    - lab07
+    - lab08
+    - lab09
+    - lab10
+    - lab11
+    - make-up
+
+
+reading:
+    
+    lab01:
+      - txt: list of symbols
+        lnk: symbols.html
+      - txt: practice quiz
+        lnk: files/lab01_propositions_practice.pdf
+      - txt: practice key
+        lnk: files/lab01_propositions_practice_key.pdf
+      - txt: quiz
+        lnk: files/quiz01.pdf
+      - txt: key
+        lnk: files/quiz01_key.pdf
+        
+    lab02:
+      - txt: list of symbols
+        lnk: symbols.html
+      - txt: practice quiz
+        lnk: files/lab02_equivalence_practice.pdf
+      - txt: practice key
+        lnk: files/lab02_equivalence_practice_key.pdf
+      - txt: quiz
+        lnk: files/quiz02.pdf
+      - txt: key
+        lnk: files/quiz02-key.pdf
+
+    lab03:
+      - txt: list of symbols
+        lnk: symbols.html
+      - txt: practice quiz
+        lnk: files/lab03.pdf
+      - txt: practice key
+        lnk: files/lab03-key.pdf
+      - txt: quiz
+        lnk: files/quiz03.pdf
+      - txt: key
+        lnk: files/quiz03-key.pdf
+
+
+    lab04:
+      - txt: list of symbols
+        lnk: symbols.html
+      - txt: practice quiz
+        lnk: files/lab04.pdf
+      - txt: practice key
+        lnk: files/lab04-key.pdf
+      - lnk: "set-practice.html"
+        txt: "more practice"
+      - txt: quiz
+        lnk: files/quiz04.pdf
+      - txt: key
+        lnk: files/quiz04-key.pdf
+
+    lab05:
+      - txt: practice quiz
+        lnk: files/lab05.pdf
+      - txt: practice key
+        lnk: files/lab05-key.pdf
+      - txt: quiz
+        lnk: files/quiz05.pdf
+      - txt: key
+        lnk: files/quiz05-key.pdf
+        
+    lab06:
+      - txt: practice quiz
+        lnk: files/lab06.pdf
+      - txt: practice key
+        lnk: files/lab06-key.pdf
+      - txt: quiz
+        lnk: files/quiz06.pdf
+      - txt: key
+        lnk: files/quiz06-key.pdf
+
+    lab07:
+      - txt: practice quiz
+        lnk: files/lab07.pdf
+      - txt: practice key
+        lnk: files/lab07-key.pdf
+      - txt: quiz
+        lnk: files/quiz07.pdf
+      - txt: key
+        lnk: files/quiz07-key.pdf
+
+    lab08:
+      - txt: practice quiz
+        lnk: files/lab08.pdf
+      - txt: practice key
+        lnk: files/lab08-key.pdf
+      - txt: quiz
+        lnk: files/quiz08.pdf
+      - txt: key
+        lnk: files/quiz08-key.pdf
+
+    lab09:
+      - txt: practice quiz
+        lnk: files/lab09.pdf
+      - txt: practice key
+        lnk: files/lab09-key.pdf
+      - txt: quiz
+        lnk: files/quiz09.pdf
+      - txt: key
+        lnk: files/quiz09-key.pdf
+        
+    lab10:
+      - txt: practice quiz
+        lnk: files/lab10.pdf
+      - txt: practice key
+        lnk: files/lab10-key.pdf
+      - txt: quiz
+        lnk: files/quiz10.pdf
+      - txt: key
+        lnk: files/quiz10-key.pdf
+
+    lab11:
+      - txt: shown during quiz
+        lnk: graph_def.html
+      - txt: practice quiz
+        lnk: files/lab11.pdf
+      - txt: practice key
+        lnk: files/lab11-key.pdf
+      - txt: quiz
+        lnk: files/quiz11.pdf
+      - txt: key
+        lnk: files/quiz11-key.pdf
+        
+    welcome: 
+      - "§Introduction"
+      - "∀x 1.0"
+      - txt: on proofs
+        lnk: proofs.html
+    real maths:
+        lnk: https://medium.com/@jeremyjkun/habits-of-highly-mathematical-people-b719df12d15e
+        txt: six habits
+    propositions:
+        - "§1.1"
+        - "∀x 4.3"
+    operators:
+        - "§3–3.2.0"
+        - "∀x 5"
+    truth tables:
+        - "§3.2.1–3.2.2"
+        - "∀x 8, 10"
+    
+    equivalence rules:
+        - "§3.3–3.4"
+        - "∀x 11.2"
+    equivalence proofs:
+        - "§3.4.2"
+        - "∀x 14–15"
+        - lnk: "axioms.html"
+          txt: "equivalences"
+        - lnk: "demorgan.html"
+          txt: "example proof"
+        - lnk: "techniques-q2.html"
+          txt: "proof techniques"
+        
+    predicates:
+        - "§1.2"
+        - "∀x 21.0–21.3"
+        - "skim §4.1.0"
+    quantifiers:
+        - "∀x 21.4–24"
+        - "§3.6"
+        - "skim ∀x 25–26"
+        - "practice exercises in ∀x 22 and 23"
+    sets:
+        - lnk: "sets.html"
+          txt: "sets writeup"
+        - lnk: "set-practice.html"
+          txt: "practice"
+        - "§4.1.1"
+    
+    data types:
+        - "§4.1–4.4"
+        - txt: "§4 addenda"
+          lnk: "chap4.html"
+    
+    cardinality:
+        - "§4.5"
+        - "§7.1"
+        - txt: pigeonhole principle
+          lnk: https://en.wikipedia.org/wiki/Pigeonhole_principle
+
+    contradiction:
+        - "§1.8"
+        - "§2"
+        - txt: Cantor diagonalization
+          lnk: cantor.html
+        - txt: open sets
+          lnk: openset.html
+
+    induction:
+        - "§2"
+        - "§5.1–5.3"
+    
+    summation:
+        - "§13.0–13.2"
+
+    combination:
+        - "§14.5"
+    
+    permutation:
+        - "§14.0—14.6"
+    
+    counting proofs:
+        - "§14.0—14.6"
+        - "§13.0–13.2"
+        - txt: reductions writeup
+          lnk: reducibility.html
+        - txt: proof techniques
+          lnk: techniques-q8.html
+    
+    graphs:
+        - "§9"
+    automata:
+        - "§5.4"
+    primes:
+        - "§8.0–8.7"
+    logs:
+        - txt: wikipedia
+          lnk: https://en.m.wikipedia.org/wiki/Logarithm
+    review:
+        - txt: topic breakdown
+          lnk: lectures/topics.txt
+
+    make-up:
+        - txt: quiz
+          lnk: files/quiz12.pdf
+
+assignments:
+    ".groups":
+        OQ:
+            portion: "30"
+            link: https://kytos.cs.virginia.edu/dmt1/quizzes/
+        IQ:
+            portion: "70"
+        Final:
+            portion: "0"
+    IQ01:
+        due: 2020-01-24 10:50:00
+    IQ02:
+        due: 2020-01-31 10:50:00
+    IQ03:
+        due: 2020-02-07 10:50:00
+    IQ04:
+        due: 2020-02-14 10:50:00
+    IQ05:
+        due: 2020-02-21 10:50:00
+    IQ06:
+        due: 2020-02-28 10:50:00
+    IQ07:
+        due: 2020-03-06 10:50:00
+    IQ08:
+        due: 2020-03-20 10:50:00
+    IQ09:
+        due: 2020-03-27 10:50:00
+    IQ10:
+        due: 2020-04-03 10:50:00
+    IQ11:
+        due: 2020-04-10 10:50:00
+    IQ12:
+        due: 2020-04-17 10:50:00
+    IQ13:
+        due: 2020-04-27 10:50:00
+
+    OQ00:
+        due: 2020-01-15 08:30:00
+        weight: 0
+    OQ01: due: 2020-01-20 08:30:00
+    OQ02: due: 2020-01-27 08:30:00
+    OQ03: due: 2020-02-03 08:30:00
+    OQ04: due: 2020-02-10 08:30:00
+    OQ05: due: 2020-02-17 08:30:00
+    OQ06: due: 2020-02-24 08:30:00
+    OQ07: due: 2020-03-02 08:30:00
+    OQ08: due: 2020-03-16 08:30:00
+    OQ09: due: 2020-03-23 08:30:00
+    OQ10: due: 2020-03-30 08:30:00
+    OQ11: due: 2020-04-06 08:30:00
+    OQ12: due: 2020-04-13 08:30:00
+    OQ13: due: 2020-04-20 08:30:00
+        
