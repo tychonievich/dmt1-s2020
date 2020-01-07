@@ -24,13 +24,13 @@ sections:
     type: lecture
     room: Rice 130
     days: [Monday, Wednesday]
-    start: 09:00:00
+    start: 9:00:00
     duration: 50
   CS2102-003b:
     type: lab
     room: Rice 130
     days: [Friday]
-    start: 09:00:00
+    start: 9:00:00
     duration: 50
 
 
