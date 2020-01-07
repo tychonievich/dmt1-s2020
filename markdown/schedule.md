@@ -1,5 +1,5 @@
 ---
-title: Fall 2019 Schedule
+title: Spring 2020 Schedule
 ...
 
 As this is my time teaching this course, I expect to change the flow and pacing of topics as the semester progresses.
@@ -112,13 +112,13 @@ readings can be <input type="button" value="shown" onclick="document.querySelect
 
 <script src="schedule.js"></script>
 
-To subscribe to the above calendar, add <http://www.cs.virginia.edu/luther/DMT1/F2019/cal.ics> to your calender application of choice.
+To subscribe to the above calendar, add <http://www.cs.virginia.edu/luther/DMT1/S2020/cal.ics> to your calender application of choice.
 
 <hr/>
 
-The <a href="http://www.virginia.edu/registrar/exams.html#1198">final exam schedule</a> puts our final Monday 16 December at 2:00 pm. The final is an in-person on-paper exam administered in the usual classroom.
+The <a href="https://www2.virginia.edu/registrar/exams.html#1202">final exam schedule</a> puts our final Thursday 30 April at 9:00 am. The final is an in-person on-paper exam administered in the usual classroom.
 
-Note the <a href="http://www.virginia.edu/registrar/exams.html#1198">final exam schedule</a> *also* lists a "special exam time" for CS 2102. That feature is added to support multi-section courses sharing one exam, and since we are not sharing an exam with the other CS 2102 sections this semester it does *not* applies to us.
+Note the <a href="https://www2.virginia.edu/registrar/exams.html#1202">final exam schedule</a> *also* lists a "special exam time" for CS 2102-001 and 2102-002. We are section 2012-003 and are thus not covered by that time.
 
 
 
