@@ -92,7 +92,7 @@ Grading rubric:
     - third: ...only if they share no love
 
 </details>
-<details><summary>Lab + Quiz 04 -- Sets</summary>
+<details><summary>Lab + Quiz 04 -- sets</summary>
 
 [lab 4](lab04.pdf) and [key](lab04-key.pdf)
 
@@ -136,74 +136,117 @@ Grading rubric:
 10. has at least one element of domain related to 2+ elements in co-domain
 
 </details>
+<details><summary>Lab + Quiz 06 -- induction, contradiction, infinity</summary>
 
-- [lab 6](lab06.pdf) and [key](lab06-key.pdf)
-- [quiz 6](quiz06.pdf) and [key](quiz06-key.pdf) and rubric:
-    - Page 1 (50%)
-        - base case includes 0
-        - reasonable defense of base case being finite
-        - induce on symbol (e.g. n), not specific number
-        - next case is +1 (e.g., n+1)
-        - appeals to addition of finite being finite
-    - Page 2 (50%)
-        - definition of x is mathematical, larger, and natural
-        - defense of x being natural fits definition of x
-        - defense of x being natural fits definition of natural
-        - last blank mentions assuming led to contradiction
-        - nothing else wrong with proof
+[lab 6](lab06.pdf) and [key](lab06-key.pdf)
 
-- [lab 7](lab07.pdf) and [key](lab07-key.pdf)
-- [quiz 7](quiz07.pdf) and [key](quiz07-key.pdf) and rubric:
-    1. 52 choose 5 = 2598960 (half for 52! / (52-5)! or 52^5^)
-    2. 8! = 40320
-    3. 8! / 2!3!2! = 1680
-    4. 7776^6^
-    5. 7776! / 7770! (half for 7776 choose 6)
-    6. 15
-    7. 3/64
-    8. 40/57
-    9. 40/60 = 2/3
-    10. 1/1000 (half for 1/500; allow (999/1000)^500^ in front at no penalty)
+[quiz 6](quiz06.pdf) and [key](quiz06-key.pdf)
 
-- [lab 8](lab08.pdf) and [key](lab08-key.pdf)
-- [quiz 8](quiz08.pdf) and [key](quiz08-key.pdf).
-    There is no rubric because the version printed and shown in class contained an error large enough the quiz was dropped entirely.
+Grading rubric:
 
-- [lab 9](lab09.pdf) and [key](lab09-key.pdf)
-- [quiz 9](quiz09.pdf) and [key](quiz09-key.pdf) and rubric:
-    - has a base case
-    - base case includes -1
-    - base case shows both sides equal
-    - has inductive step
-    - inductive case assumes true at variable
-    - inductive case shows true at variable + 1
-    - induction argument uses algebra
-    - algebra correct
-    - has conclusion
-    - structure: introduces induction, labels parts, etc
+- Page 1 (50%)
+    - base case includes 0
+    - reasonable defense of base case being finite
+    - induce on symbol (e.g. n), not specific number
+    - next case is +1 (e.g., n+1)
+    - appeals to addition of finite being finite
+- Page 2 (50%)
+    - definition of x is mathematical, larger, and natural
+    - defense of x being natural fits definition of x
+    - defense of x being natural fits definition of natural
+    - last blank mentions assuming led to contradiction
+    - nothing else wrong with proof
 
-- [lab 10](lab10.pdf) and [key](lab10-key.pdf)
-- [quiz 10](quiz10.pdf) and [key](quiz10-key.pdf) and rubric:
-    - Q1 is 2 · 2 · 3 · 5 (or 2² · 3 · 5)
-    - Q2 is 3^y = x
-    - Q3 is log_c(b) ÷ log_c(a) -- half credit if inverse of that
-    - Q4 is 2 lg(a) + lg(b)
-    - Q5 is 3/2
-    - pf: each step follows from one above
-    - pf: ends with only integers and powers on last line
-    - pf: fits the rest of proof (e.g. 3^b = 2^a)
+</details>
+<details><summary>Lab + Quiz 07 -- combinatorics</summary>
 
-- [lab 11](lab11.pdf) and [key](lab11-key.pdf)
-- [quiz 11](quiz11.pdf) and [key](quiz11-key.pdf) and rubric:
-    - makes assumption
-    - assumption is negation of theorem (some shortest walk is not a path)
-    - derives contradiction
-    - states contradiction means assumption false
-    - all logic-based claims are true
-    - all graph-based claims are true
-    - appeals to definition of path (no repeat vertex)
-    - appeals to shortness/length in some way
+[lab 7](lab07.pdf) and [key](lab07-key.pdf)
 
-- [quiz 12](quiz12.pdf) -- no key released
-- [final quiz](final.pdf) -- no key released
+[quiz 7](quiz07.pdf) and [key](quiz07-key.pdf)
 
+Grading rubric:
+
+1. 52 choose 5 = 2598960 (half for 52! / (52-5)! or 52^5^)
+2. 8! = 40320
+3. 8! / 2!3!2! = 1680
+4. 7776^6^
+5. 7776! / 7770! (half for 7776 choose 6)
+6. 15
+7. 3/64
+8. 40/57
+9. 40/60 = 2/3
+10. 1/1000 (half for 1/500; allow (999/1000)^500^ in front at no penalty)
+
+</details>
+<details><summary>Lab + Quiz 08 -- summation proofs</summary>
+
+[lab 8](lab08.pdf) and [key](lab08-key.pdf)
+
+[quiz 8](quiz08.pdf) and [key](quiz08-key.pdf)
+
+There is no rubric because the quiz version printed and shown in class contained an error large enough that the quiz was dropped entirely.
+
+</details>
+<details><summary>Lab + Quiz 09 -- summation proofs</summary>
+
+[lab 9](lab09.pdf) and [key](lab09-key.pdf)
+
+[quiz 9](quiz09.pdf) and [key](quiz09-key.pdf)
+
+Grading rubric:
+
+- has a base case
+- base case includes -1
+- base case shows both sides equal
+- has inductive step
+- inductive case assumes true at variable
+- inductive case shows true at variable + 1
+- induction argument uses algebra
+- algebra correct
+- has conclusion
+- structure: introduces induction, labels parts, etc
+
+</details>
+<details><summary>Lab + Quiz 10 -- logarithms</summary>
+
+[lab 10](lab10.pdf) and [key](lab10-key.pdf)
+
+[quiz 10](quiz10.pdf) and [key](quiz10-key.pdf)
+
+Grading rubric:
+
+- Q1 is 2 · 2 · 3 · 5 (or 2² · 3 · 5)
+- Q2 is 3^y = x
+- Q3 is log_c(b) ÷ log_c(a) -- half credit if inverse of that
+- Q4 is 2 lg(a) + lg(b)
+- Q5 is 3/2
+- pf: each step follows from one above
+- pf: ends with only integers and powers on last line
+- pf: fits the rest of proof (e.g. 3^b = 2^a)
+
+</details>
+<details><summary>Lab + Quiz 11 -- graphs</summary>
+
+[lab 11](lab11.pdf) and [key](lab11-key.pdf)
+
+[quiz 11](quiz11.pdf) and [key](quiz11-key.pdf)
+
+Grading rubric:
+
+- makes assumption
+- assumption is negation of theorem (some shortest walk is not a path)
+- derives contradiction
+- states contradiction means assumption false
+- all logic-based claims are true
+- all graph-based claims are true
+- appeals to definition of path (no repeat vertex)
+- appeals to shortness/length in some way
+
+</details>
+<details><summary>Final evaluations</summary>
+
+[quiz 12](quiz12.pdf) -- no key released; students were permitted to take up to 2 pages.
+
+[final quiz](final.pdf) -- no key released; students were permitted to take up to all pages.
+
+</details>
