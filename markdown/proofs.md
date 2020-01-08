@@ -45,7 +45,7 @@ A goal of this course is to help you develop the experience and skills needed to
 Most proofs have too many steps to hold them all in your working memory at once.
 Whether creating such a proof or trying to understand one someone else created,
 it can be useful to create a whiteboard proof version of it.
-Whiteboard proofs contain all of the components of a proof, written (or drawn or otherwise represented) outside you head so you don't have to worry about forgetting them, but lack the context and polish to be meaningful to those not present during their construction---including, notably, the future selves of those who created it.
+Whiteboard proofs contain all of the components of a proof, written (or drawn or otherwise represented) outside your head so you don't have to worry about forgetting them, but lack the context and polish to be meaningful to those not present during their construction---including, notably, the future selves of those who created it.
 Once you've created or understood the prose proof, you erase the board, because whiteboard proofs are a means to an end, not an end in themselves.
 
 Whiteboard proofs will be used extensively in class presentations, and you should create them first every time you go to write a proof.
