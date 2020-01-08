@@ -6,7 +6,7 @@ Following are the labs, in-class quizzes, quiz keys, and quiz grading rubrics us
 
 <style>
     details { border: thin solid black; border-radius: 1ex; padding: 1ex; }
-    details + details { margin-top: 1em; }
+    details + details { margin-top: 0.5ex; }
 </style>
 
 
