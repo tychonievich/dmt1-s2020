@@ -153,7 +153,12 @@ Not just hard in a fuzzy human sense; provably hard.
 One corollary of [Rice's Theorem](https://en.wikipedia.org/wiki/Rice%27s_theorem)
 is that for *any* feature you might want to prove about a computer program
 (e.g., "it does not email rude things to all my contacts and then erase my entire disk")
-there exist programs have the feature, but no automated process can prove they have the feature.
+there exist programs have the feature, but no automated process can prove they have the feature.^[
+    Actually, this is not quite what Rice's theorem claims.
+    For any functional property and any given finite set of automated proving processes,
+    there exist programs with the property but whcih none of those processes can prove have the property.
+    i.e., ∀ prop ∀ provers ∃ program s.t. program has prop and prover cannot prove program has prop.
+]
 
 However, we have computer programs that can do a lot toward automating proofs; coupled with human creativity and intuition, these can result in much more complex and detailed proofs than either computer or human can (efficiently) do alone.
 These proof assistant tools generally take input in the form of major proof steps and decisions, and can output various forms ranging from [machine-checkable](#machine-checkable-proofs) lists of small, simple steps
