@@ -52,7 +52,7 @@ Our TAs are students too, with duties and work outside of their TAing. Please do
 We will primarily use the free online textbook *Mathematics for Computer Science* by Eric Lehman, Thomson Leighton, and Albert Meyer,
 available both [on our site](files/mcs.pdf)
 and [on MIT's site](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/MIT6_042JS15_textbook.pdf).
-Readings that begin MCS refer to sections of that book;
+Readings that begin "MCS" refer to sections of that book;
 for example, "MCS 1.7" refers to the section "Proof by Cases".
 
 We will also sometimes refer to the free online textbook *forall x Calgary Remix* by P D Mangus *et al*,
@@ -89,15 +89,15 @@ F       less than minimal competence        retake this course first
 
 [^future]:
     Most of our courses depend on CS 2102 topics in some way.
-    Theory (CS 3102), Algo (CS 4102), and the pilot's DSA2 all have strong dependencies, as do many of our electives.
+    Theory (CS 3102) and Algo (CS 4102) have particularly strong dependencies, as do many of our electives.
 
 This will be measured in the following way:
 
-- Every [OQ question and IQ rubric item](#tasks) will be assigned to one or more of several key concepts.
+- Every online quiz question and in-class quiz rubric item will be assigned to one or more of several key concepts.
 - The combined set of items in a concept will be assigned a label from the set {insufficient, competent, mastery}.
 - Different mixes of scores in different concepts will correspond to different final letter grades.
 
-Missed IQ and OQ evaluations will not be rescheduled, extended, nor made up during the semester.
+Missed evaluations will not be rescheduled, extended, nor made up during the semester.
 
 The final quiz will be an opportunity to show mastery in topics that you failed to show mastery of during the semester, whether because you failed to take the relevant assessments or because you did not perform well on them. If you do not need such an opportunity (i.e., you have already shown mastery before the final) you will not need to take the final quiz.
 

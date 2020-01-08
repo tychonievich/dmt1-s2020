@@ -23,7 +23,6 @@ $endif$
 $for(css)$
   <link rel="stylesheet" href="$css$" $if(html5)$$else$type="text/css" $endif$/>
 $endfor$
-<!--<link rel="stylesheet" href="bootstrap.united.min.css" $if(html5)$$else$type="text/css" $endif$/>-->
 $if(math)$
   $math$
   <style type="text/css">.katex { font-size: inherit; }</style>
@@ -31,11 +30,6 @@ $endif$
 $for(header-includes)$
   $header-includes$
 $endfor$
-<!--
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.11.0/dist/katex.min.css" integrity="sha384-BdGj8xC2eZkQaxoQ8nSLefg4AV4/AwB3Fj+8SUSo7pnKP6Eoy18liIKTPn9oBYNG" crossorigin="anonymous">
-<script defer src="https://cdn.jsdelivr.net/npm/katex@0.11.0/dist/katex.min.js" integrity="sha384-JiKN5O8x9Hhs/UE5cT5AAJqieYlOZbGT3CHws/y97o3ty4R7/O5poG9F3JoiOYw1" crossorigin="anonymous"></script>
-<script defer src="https://cdn.jsdelivr.net/npm/katex@0.11.0/dist/contrib/auto-render.min.js" integrity="sha384-kWPLUVMOks5AQFrykwIup5lo0m3iMkkHrD0uJ4H5cjeGihAutqP0yW0J6dpFiVkI" crossorigin="anonymous" onload="document.querySelectorAll('.proof').forEach(x => renderMathInElement(x));"></script>
--->
 </head>
 <body>
   $if(title)$
@@ -48,7 +42,7 @@ $endfor$
           <li><p class="navbar-text">$date$</p></li>
           $endif$
           <li><p class="navbar-text"><a href="index.html">home</a></p></li>
-          <li><p class="navbar-text"><a href="https://kytos.cs.virginia.edu/dmt1/quizzes/">OQ</a></p></li>
+          <li><p class="navbar-text"><a href="https://kytos.cs.virginia.edu/dmt1/quizzes/">quizzes</a></p></li>
           <li><p class="navbar-text"><a href="oh.html">OH</a></p></li>
           <li><p class="navbar-text"><a href="https://kytos.cs.virginia.edu/dmt1/">progress</a></p></li>
           <li><p class="navbar-text"><a href="policies.html">policies</a></p></li>
