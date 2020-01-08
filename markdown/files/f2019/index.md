@@ -247,8 +247,8 @@ Grading rubric:
 </details>
 <details><summary>Final evaluations</summary>
 
-[quiz 12](quiz12.pdf) -- no key released; students were permitted to take up to 2 pages.
+[quiz 12](quiz12.pdf) -- no key released; students were permitted to take up to 2 pages, replacing previous grades if they did so.
 
-[final quiz](final.pdf) -- no key released; students were permitted to take up to all pages.
+[final quiz](final.pdf) -- no key released; students were permitted to take up to all pages, replacing previous grades if they did so.
 
 </details>
