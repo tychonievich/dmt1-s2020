@@ -4,7 +4,11 @@ title: Fall 2019 labs, quizzes, and rubrics
 
 Following are the labs, in-class quizzes, quiz keys, and quiz grading rubrics used in the Fall 2019 offering of this course.
 
-<style>details { border: thin solid black; border-radius: 1ex; padding: 1ex; }</style>
+<style>
+    details { border: thin solid black; border-radius: 1ex; padding: 1ex; }
+    details + details { margin-top: 1em; }
+</style>
+
 
 <details><summary>Lab + Quiz 01 -- basic logic</summary>
 
