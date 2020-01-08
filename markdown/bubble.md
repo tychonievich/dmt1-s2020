@@ -7,7 +7,7 @@ title: A Proof about Bubble-Sort
 There are many sorting algorithms, some better than others.
 There exist strictly better algorithms than bubble sort
 (i.e., faster, lower-power, same-space, and simpler),
-there very inefficiency of bubble sorts makes a proof of its correctness interesting.
+the inefficiency of bubble sorts makes a proof of its correctness interesting.
 
 # Algorithm
 
