@@ -16,6 +16,7 @@ I have no obvious place to list those supplements so I'm listing them here. They
 - [Logical Reduction](reducibility.html)
 - [§4 addenda](chap4.html)
 - Example proofs, including [De Morgan's laws](demorgan.html), [bubble sort](bubble.html), [Cantor diagonalization](cantor.html), and [open sets](openset.html)
+- All in-class labs and quizzes from [Fall 2019](files/f2019)
 
 # Course Overview 
 

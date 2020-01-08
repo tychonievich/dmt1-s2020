@@ -4,6 +4,7 @@ title: Fall 2019 labs, quizzes, and rubrics
 
 Following are the labs, in-class quizzes, quiz keys, and quiz grading rubrics used in the Fall 2019 offering of this course.
 
+<details><summary>Lab + Quiz 01 -- basic logic</summary>
 - [lab 1](lab01.pdf) and [key](lab01-key.pdf)
 - [quiz 1](quiz01.pdf) and [key](quiz01-key.pdf) and rubric:
     - Page 1 (50%)
@@ -26,6 +27,7 @@ Following are the labs, in-class quizzes, quiz keys, and quiz grading rubrics us
         - A ⊕ C column is 01011010
         - B ↔ C column is 10011001
         - *(2 points)* center column ↔ of other two (00111100 unless errors above)
+</details>
 
 - [lab 2](lab02.pdf) and [key](lab02-key.pdf)
 - [quiz 2](quiz02.pdf) and [key](quiz02-key.pdf) and rubric:
