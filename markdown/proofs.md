@@ -153,7 +153,7 @@ Not just hard in a fuzzy human sense; provably hard.
 One corollary of [Rice's Theorem](https://en.wikipedia.org/wiki/Rice%27s_theorem)
 is that for *any* feature you might want to prove about a computer program
 (e.g., "it does not email rude things to all my contacts and then erase my entire disk")
-there exist programs that both (a) have the feature and (b) no automated process can prove has the feature.
+there exist programs have the feature, but no automated process can prove they have the feature.
 
 However, we have computer programs that can do a lot toward automating proofs; coupled with human creativity and intuition, these can result in much more complex and detailed proofs than either computer or human can (efficiently) do alone.
 These proof assistant tools generally take input in the form of major proof steps and decisions, and can output various forms ranging from [machine-checkable](#machine-checkable-proofs) lists of small, simple steps
@@ -162,7 +162,7 @@ to a rough draft of a [prose proof](#prose-proof).
 Another variant of this course at UVA makes use of a proof assistant tool ([L∃∀N](https://leanprover.github.io)), which allows the course to be more formal and explore a large scope of proofs.
 This variant of the course does not use any such tool.
 
-Computers can also assist in creating proofs that as simply too large for humans to handle, verifying by brute force that every one of many thousands of cases individually work out.
+Computers can also assist in creating proofs that are simply too large for humans to handle, verifying by brute force that every one of many thousands of cases individually work out.
 Several significant theorems have been proven this way, perhaps most famously the [four color theorem](https://en.wikipedia.org/wiki/Four_color_theorem).
 
 # Why proofs
