@@ -156,7 +156,7 @@ is that for *any* feature you might want to prove about a computer program
 there exist programs have the feature, but no automated process can prove they have the feature.^[
     Actually, this is not quite what Rice's theorem claims.
     More accurately, for any functional property and any given finite set of automated proving processes,
-    there exist programs with the property but whcih none of those processes can prove have the property.
+    there exist programs with the property but which none of those processes can prove have the property.
     i.e., ∀ prop ∀ provers ∃ program s.t. program has prop and prover cannot prove program has prop.
 ]
 
