@@ -29,23 +29,19 @@ At the end of the semester, you will also be able to take a final quiz, which is
 
 ## Contact
 
-To appear
-
-<!--
 |        | Instructor | TAs |
 |--------|------------|-----|
-| Name | Luther Tychonievich |  |
-| Location | Rice 208 | See [the OH page](oh.html) |
-| Office Hours | Monday 10:00–11:00<br/>Tuesday 13:00–15:00<br/>Friday 11:00–12:00 | See [the OH page](oh.html) |
+| Name | Luther Tychonievich | Emily Feng, Zachary Heidel, Jack Herd, Abrar Majidi Idrissi, Sarah Meng, Nathaniel Saxe, Annie Zhu |
+| Location | Rice 208 | TBA |
+| Office Hours | Mo 3-4; Tu 10-11; We 11-12; Th 2-3 | TBA |
 | Phone | 243-3789 | (none) |
-| Email | <a href="mailto:tychonievich@virginia.edu?subject=DMT1">tychonievich@virginia.edu</a> | use [Piazza](https://piazza.com/class/jxvww9fikng3nr) |
+| Email | <a href="mailto:tychonievich@virginia.edu?subject=DMT1">tychonievich@virginia.edu</a> | use [Piazza](https://piazza.com/class/k570zgryaf544) |
 
-For most communication, [Piazza](https://piazza.com/class/jxvww9fikng3nr) is preferred to email.
+For most communication, [Piazza](https://piazza.com/class/k570zgryaf544) is preferred to email.
 If you email, include either "DMT1" or "2102" in the subject line to prevent your email from skipping my inbox and never getting read.
 
 Our TAs are students too, with duties and work outside of their TAing. Please do not ask them to act as your TA except at the scheduled on-the-clock times they have listed as their office hours and lab time. They are also kind people; please don't put them in the position of having to say no or (worse) being nice to you at the expense of their own schooling.
 
--->
 
 ## Readings
 
