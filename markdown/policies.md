@@ -37,7 +37,8 @@ At the end of the semester, you will also be able to take a final quiz, which is
 | Phone | 243-3789 | (none) |
 | Email | <a href="mailto:tychonievich@virginia.edu?subject=DMT1">tychonievich@virginia.edu</a> | use [Piazza](https://piazza.com/class/k570zgryaf544) |
 
-For most communication, [Piazza](https://piazza.com/class/k570zgryaf544) is preferred to email.
+For communication about course content, [Piazza](https://piazza.com/class/k570zgryaf544) is preferred to email.
+For communication about personal circumstances, email or in-person visits are preferred.
 If you email, include either "DMT1" or "2102" in the subject line to prevent your email from skipping my inbox and never getting read.
 
 Our TAs are students too, with duties and work outside of their TAing. Please do not ask them to act as your TA except at the scheduled on-the-clock times they have listed as their office hours and lab time. They are also kind people; please don't put them in the position of having to say no or (worse) being nice to you at the expense of their own schooling.
