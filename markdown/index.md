@@ -2,22 +2,6 @@
 title: Discrete Mathematics
 ...
 
-# List of reference pages
-
-From time to time I create reference pages intended to supplement the textbooks ([MCS](files/mcs.pdf) and [∀x](files/forallx.pdf), the latter also having a [solution book](http://forallx.openlogicproject.org/solutions/forallxsol.pdf));
-I have no obvious place to list those supplements so I'm listing them here. They are:
-
-- [On Proofs](proofs.html), including four different uses of the word "proof"
-- [Symbols we'll use](symbols.html), which is made available during in-class quizzes
-- [Axioms](axioms.html), being useful tools out of which we build proofs
-- [Glossary of logical terms](glossary.html)
-- [Sets primer](sets.html)
-- [Proof Techniques](techniques-q8.html), a list of techniques with tips on proof writing
-- [Logical Reduction](reducibility.html)
-- [§4 addenda](chap4.html)
-- Example proofs, including [De Morgan's laws](demorgan.html), [bubble sort](bubble.html), [Cantor diagonalization](cantor.html), and [open sets](openset.html)
-- All in-class labs and quizzes from [Fall 2019](files/f2019)
-
 # Course Overview 
 
 This is one offering of Discrete Mathematics,
@@ -56,4 +40,20 @@ I hope to also have time to cover several additional topics, including
 - additional discrete structures, including tuples and graphs
 - finite automata
 - logical reductions
+
+# Writeups
+
+From time to time I create reference pages intended to supplement the textbooks ([MCS](files/mcs.pdf) and [∀x](files/forallx.pdf), the latter also having a [solution book](http://forallx.openlogicproject.org/solutions/forallxsol.pdf));
+I have no obvious place to list those supplements so I'm listing them here. They are:
+
+- [On Proofs](proofs.html), including four different uses of the word "proof"
+- [Symbols we'll use](symbols.html), which is made available during in-class quizzes
+- [Axioms](axioms.html), being useful tools out of which we build proofs
+- [Glossary of logical terms](glossary.html)
+- [Sets primer](sets.html)
+- [Proof Techniques](techniques-q8.html), a list of techniques with tips on proof writing
+- [Logical Reduction](reducibility.html)
+- [§4 addenda](chap4.html)
+- Example proofs, including [De Morgan's laws](demorgan.html), [bubble sort](bubble.html), [Cantor diagonalization](cantor.html), and [open sets](openset.html)
+- All in-class labs and quizzes from [Fall 2019](files/f2019)
 

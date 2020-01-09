@@ -185,7 +185,6 @@ def raw2cal(data, links=None):
             if 'hide' in ent: ans[-1]['hide'] = ent['hide']
             if 'link' in ent: ans[-1]['link'] = ent['link']
         
-        
         return ans
 
     ans = []
@@ -205,7 +204,6 @@ def cal2html(cal):
     ldat = None
     for week in cal:
         newweek = True
-        print('reset')
         for day in week:
             if day is not None and not all(_.get('kind') == 'oh' for _ in day['events']):
                 ldat = day['date']
@@ -245,7 +243,6 @@ def cal2html(cal):
                 ans.append('</div>')
             elif day is None and ldat is not None:
                 ldat += timedelta(1)
-                print(ldat, newweek)
                 ans.append('<div class="empty day {}" date="{}"></div>'.format(ldat.strftime('%a') + (' newweek' if newweek else ''), ldat.strftime('%Y-%m-%d')))
                 newweek = False
     ans.append('</div>')
