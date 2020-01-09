@@ -84,7 +84,6 @@ labs:
     - lab03
     - lab04
     - lab05
-    - contradiction
     - lab06
     - lab07
     - lab08
@@ -92,6 +91,7 @@ labs:
     - lab10
     - lab11
     - lab12
+    - lab13
 
 
 reading:
@@ -121,6 +121,7 @@ reading:
     lab10: []
     lab11: []
     lab12: []
+    lab13: []
 
     welcome: 
       - "MCS Introduction"
