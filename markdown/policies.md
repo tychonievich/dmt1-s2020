@@ -91,8 +91,12 @@ F       less than minimal competence        retake this course first
 This will be measured in the following way:
 
 - Every online quiz question and in-class quiz rubric item will be assigned to one or more of several key concepts.
+    - Set of concepts still under discussion between course staff
+    - Last semester used {logic, induction, contradiction, sets, combinatorics, other}
+    - Debating using simpler set {logic, proofs, numbers, structures} this semester
 - The combined set of items in a concept will be assigned a label from the set {insufficient, competent, mastery}.
 - Different mixes of scores in different concepts will correspond to different final letter grades.
+    - Once final set determined, it will be posted here along with the mapping between competence levels in each and letter grades
 
 Missed evaluations will not be rescheduled, extended, nor made up during the semester.
 
