@@ -36,7 +36,7 @@ sections:
 
 lectures:
     - welcome
-    - [propositions, operators]
+    - real maths
     - truth tables
 
     - equivalence rules
@@ -78,7 +78,7 @@ lectures:
 
 
 labs:
-    - real maths
+    - [propositions, operators]
     - lab01
     - lab02
     - lab03
