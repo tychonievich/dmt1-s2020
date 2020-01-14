@@ -90,17 +90,45 @@ F       less than minimal competence        retake this course first
 
 This will be measured in the following way:
 
-- Every online quiz question and in-class quiz rubric item will be assigned to one or more of several key concepts.
-    - Set of concepts still under discussion between course staff
-    - Last semester used {logic, induction, contradiction, sets, combinatorics, other}
-    - Debating using simpler set {logic, proofs, numbers, structures} this semester
+- Every online quiz question and in-class quiz rubric item will be assigned to one or more of the following four core concepts:
+    
+    Logic
+    :   consisting of propositional and predicate logic and the correct conversion between English and Math
+    
+    Proofs
+    :   consisting of application of proof strategies (direct, by-cases, inductive, by-contradiction) and writing of prose proofs
+    
+    Structures
+    :   consisting of sets, sequences, relations, and operations thereof
+    
+    Numbers
+    :   consisting of sums, factorization, logarithms, and combinatorics
+    
 - The combined set of items in a concept will be assigned a label from the set {insufficient, competent, mastery}.
-- Different mixes of scores in different concepts will correspond to different final letter grades.
-    - Once final set determined, it will be posted here along with the mapping between competence levels in each and letter grades
+    Initially, mastery will be 90% and competence 75%; we may change those as evaluations are performed and better calibration between graded items and student ability is developed.
+
+- Different mixes of scores in different concepts will correspond to different final letter grades as follows:
+    
+    Grade   Definition
+    ------- ---------------------------------------------------
+    A+      A, and exceptionally low error rate
+    A       Mastered all four
+    A-      Competent in all, mastered all but numbers
+    B+      Competent in all, mastered all but structures
+    B       Competent in all, mastered logic and proofs
+    B-      Competent in all, mastered logic and one more
+    C+      Competent in all, mastered something
+    C       Competent in all
+    C-      Competent in all but one, including logic
+    D+      Competent in logic and proofs, mastered something
+    D       Competent in logic and proofs
+    D-      (unused)
+    F       Anything else
+    
 
 Missed evaluations will not be rescheduled, extended, nor made up during the semester.
 
-The final quiz will be an opportunity to show mastery in topics that you failed to show mastery of during the semester, whether because you failed to take the relevant assessments or because you did not perform well on them. If you do not need such an opportunity (i.e., you have already shown mastery before the final) you will not need to take the final quiz.
+The final quiz will be an opportunity to show mastery in topics that you failed to show mastery of during the semester, whether because you failed to take the relevant assessments or because you did not perform well on them, and will be separated out by topic so you can take only those topics you wish to. If you do not need such an opportunity (i.e., you have already shown mastery before the final) you will not need to take the final quiz.
 
 UVA does not award credit for placement tests. If you have not shown continuing evidence of engagement and learning throughout the course, the final quiz may not be enough to change that.
 
