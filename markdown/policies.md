@@ -113,16 +113,16 @@ This will be measured in the following way:
     ------- ---------------------------------------------------
     A+      A, and exceptionally low error rate
     A       Mastered all four
-    A-      Competent in all, mastered all but numbers
+    A−      Competent in all, mastered all but numbers
     B+      Competent in all, mastered all but structures
     B       Competent in all, mastered logic and proofs
     B-      Competent in all, mastered logic and one more
     C+      Competent in all, mastered something
     C       Competent in all
-    C-      Competent in all but one, including logic
+    C−      Competent in all but one, including logic
     D+      Competent in logic and proofs, mastered something
     D       Competent in logic and proofs
-    D-      (unused)
+    D−      (unused)
     F       Anything else
     
 
