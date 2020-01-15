@@ -141,7 +141,7 @@ def raw2cal(data, links=None):
                                 and d not in ent.get('except',[])
                             ):
                                 where = ent.get('where', det.get('where', meta.get('where','location TBD')))
-                                key = kind if kind == 'TA' else staff
+                                key = staff # kind if kind == 'TA' else staff
                                 oh.setdefault(key+' OH ('+where+')',{
                                     'where':where,
                                     'when':[]
