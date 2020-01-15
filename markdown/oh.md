@@ -59,7 +59,7 @@ oh_feed.forEach(x => {
     tr.insertCell().innerText = moment(x.start).format('ddd D MMM')
     let entry = tr.insertCell()
     entry.classList.add('oh')
-    entry.classList.add(x['title'].split(' ')[0] == 'TA' ? 'ta' : 'faculty')
+    entry.classList.add(x['title'].split(' ')[0] == 'Tychonievich' ? 'faculty' : 'ta')
     if ('link' in x) {
         let a = document.createElement('a')
         a.href = x['link']
