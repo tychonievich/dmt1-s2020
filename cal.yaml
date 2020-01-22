@@ -190,6 +190,10 @@ reading:
     lab01:
       - txt: list of symbols
         lnk: symbols.html
+      - txt: lab
+        lnk: files/lab01.pdf
+      - txt: lab key
+        lnk: files/lab01-key.pdf
         
     lab02:
       - txt: list of symbols
