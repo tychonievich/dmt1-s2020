@@ -15,6 +15,7 @@ $P$ xor $Q$     `p != q`    `p != q`    $P \oplus Q$                    `p ^ q` 
 $P$ implies $Q$                         $P \rightarrow Q$                           $P \supset Q$, $P \Rightarrow Q$
 $P$ iff $Q$     `p == q`    `p == q`    $P \leftrightarrow Q$                       $P \Leftrightarrow Q$, $P$ xnor $Q$, $P \equiv Q$
 
+<!--
 
 Concept          Symbol         Meaning
 --------        --------        --------------
@@ -23,3 +24,4 @@ entails         $\vDash$        "$A \vDash B$" means "$A \rightarrow B$ is a tau
 provable        $\vdash$        "$A \vdash B$" means both "$A \vDash B$" and "I know $B$ is true because $A$ is true"<br/>"$\vdash B$" (i.e., without $A$) means "I know $B$ is true"
 therefore       $\therefore$    "$\therefore A$" means both "$\vdash A$" and "$A$ is the thing we wanted to show"
 
+-->
