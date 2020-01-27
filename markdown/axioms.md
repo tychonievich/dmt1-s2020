@@ -60,6 +60,7 @@ $A \oplus B$                $\lnot (A \leftrightarrow B)$
 $A \leftrightarrow B$       $\lnot (A \oplus B)$                xnor
 $P \rightarrow (A \lor Q)$  $(P \land \lnot A) \rightarrow Q$
 
+<!--
 
 # Entailments
 
@@ -132,3 +133,5 @@ The following are also true:
 - $(a \in \mathbb Z) \land (a > 1) \vDash (a$ has at least two factors$)$
 - $(a \in \mathbb Z) \land (a > 1) \land (a$ has exactly two factors$) \equiv (a$ is prime$)$
 - Each integer greater than 1 has exactly one prime factorization
+
+-->

@@ -364,7 +364,7 @@ assignments:
             auto-late-days: 0
             late-penalty: 1
             human:
-                - pg 2 uses logical (not code) syntax
+                - answers in logic (not code) syntax
                 - q5 is "a ∧ ¬b"
                 - q6 is "¬a ∨ b" and/or "¬(a ∧ ¬b)"
                 - q7 is "⊥" or the like
