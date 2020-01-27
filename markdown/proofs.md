@@ -63,11 +63,11 @@ Their ordering and presentation is selected to make the conclusion feel almost i
 
 :::proof
 Let $P$ be the set of all primes. Assume that $|P|$ is finite
-and define $p_p$ as $$p_p \triangleq \prod_{x \in P} x$$
-Because $P$ is a finite set of finite values, $p_p$ is also finite.
+and define $p'$ as $$p' \triangleq 1 + \prod_{x \in P} x$$
+Because $P$ is a finite set of finite values, $p'$ is also finite;
+because it is larger than any $p \in P$, $p' \notin P$.
 
-Let $p'$ be $p_p + 1$.
-Then $p'$ must not have any factor in $P$ because $p' = 1 \mod p$ for every $p \in P$.
+By construction, $p' = 1 \mod p$ for every $p \in P$, meaning $p'$ does not have any factor in $P$.
 Hence either $p'$ is a prime not in $P$, or it has as a factor a different prime not in $P$.
 Either way this contradicts our definition of $P$ as the set of all primes.
 
