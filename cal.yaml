@@ -245,6 +245,8 @@ reading:
     equivalence rules:
         - "MCS 3.3–3.4"
         - "∀x 11.2"
+        - lnk: "axioms.html"
+          txt: "equivalences"
     equivalence proofs:
         - "MCS 3.4.2"
         - "∀x 14–15"
