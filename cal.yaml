@@ -348,8 +348,13 @@ assignments:
             auto-late-days: 0
             late-penalty: 1
             human:
-                - code could work for any number of threads
-                - no race conditions
+                - have keys and expressions
+                - correct logical syntax
+                - q1 is "prep → do well"
+                - q2 is "fight ∧ look"
+                - q3 is "(perf ∨ staff) → (early ⊕ on-time)"
+                - q4 contains "(midget ∨ giant) → (size ∧ shop)"
+                - q4 contains "∧ never-met"
     IQ01-2:
         due: 2020-01-24 10:50:00
         hide: true
@@ -359,8 +364,13 @@ assignments:
             auto-late-days: 0
             late-penalty: 1
             human:
-                - code could work for any number of threads
-                - no race conditions
+                - pg 2 uses logical (not code) syntax
+                - q5 is "a ∧ ¬b"
+                - q6 is "¬a ∨ b" and/or "¬(a ∧ ¬b)"
+                - q7 is "⊥" or the like
+                - q8 ↔ column is 1010 0101
+                - q8 → column is 1101 1101
+                - q8 ⊕ column is xor of other two
     IQ02:
         due: 2020-01-31 10:50:00
     IQ03:
