@@ -370,7 +370,6 @@ assignments:
                 - answers in logic (not code) syntax
                 - q5 is "a ∧ ¬b"
                 - q6 is "¬a ∨ b" and/or "¬(a ∧ ¬b)"
-                - q7 is "⊥" or the like
                 - q8 ↔ column is 1010 0101
                 - q8 → column is 1101 1101
                 - q8 ⊕ column is xor of other two
