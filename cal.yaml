@@ -200,6 +200,10 @@ reading:
         lnk: files/lab01.pdf
       - txt: lab key
         lnk: files/lab01-key.pdf
+      - txt: quiz
+        lnk: files/quiz01.pdf
+      - txt: key
+        lnk: files/quiz01-key.pdf
         
     lab02:
       - txt: list of symbols
@@ -345,6 +349,7 @@ assignments:
     IQ01-1:
         due: 2020-01-24 10:50:00
         hide: true
+        weight: 8
         rubric: 
             kind: hybrid
             auto-weight: 0
@@ -361,6 +366,7 @@ assignments:
     IQ01-2:
         due: 2020-01-24 10:50:00
         hide: true
+        weight: 7
         rubric: 
             kind: hybrid
             auto-weight: 0
