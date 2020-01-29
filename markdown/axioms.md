@@ -60,9 +60,37 @@ $A \oplus B$                $\lnot (A \leftrightarrow B)$
 $A \leftrightarrow B$       $\lnot (A \oplus B)$                xnor
 $P \rightarrow (A \lor Q)$  $(P \land \lnot A) \rightarrow Q$
 
-<!--
-
 # Entailments
+
+## Logical entailment
+
+Given                                                       Entails                         Name
+-------------------------------------------------------     -----------------------------   --------------------
+$\bot$                                                      ${x}$
+                                                            ${\top}$
+                                                            ${A \lor \lnot A}$              excluded middle
+$A \land B$                                                 ${A}$
+$A$ and $B$                                                 ${A \land B}$
+$A$                                                         ${A \lor B}$
+$A \lor B$ and $\lnot B$                                    ${A}$                           disjuctive syllogism
+$A \rightarrow B$ and $B \rightarrow C$                     ${A \rightarrow C}$             hypothetical syllogism; transitivity of implication
+$A \rightarrow B$ and $A$                                   ${B}$                           modus ponens
+$A \rightarrow B$ and $\lnot B$                             ${\lnot A}$                     modus tolens
+$A \leftrightarrow B$                                       ${A \rightarrow B}$
+${A \rightarrow C}$, ${B \rightarrow B}$, and ${A \lor B}$  ${C}$
+${A \rightarrow B}$, ${C \rightarrow D}$, and ${A \lor C}$  ${B \lor D}$
+$A \rightarrow B$                                           ${A \rightarrow (A \land B)}$
+$\lnot(A \land B)$, $A$                                     ${\lnot B}$
+
+## Assume-and-prove entailment
+
+A proof that assumes $A$ and derives $B$ entails that $A \rightarrow B$. This is commonly used in the inductive step of a proof by induction.
+
+A proof that assumes $A$ and derives $\bot$ entails that $\lnot A$. This is called "proof by contradiction" or "indirect proof."
+
+
+
+<!--
 
 ## Set entailment
 
@@ -88,32 +116,6 @@ $P(s) \land s \in S$              $\exists x \in S \;.\; P(x)$                  
 
 These also all have versions that use a defined domain instead of set membership.
 Universal generalization is sometimes called "skolemization."
-
-## Logical entailment
-
-Given                                                       Entails                         Name
--------------------------------------------------------     -----------------------------   --------------------
-$\bot$                                                      ${x}$
-                                                            ${\top}$
-                                                            ${A \lor \lnot A}$              excluded middle
-$A \land B$                                                 ${A}$
-$A$ and $B$                                                 ${A \land B}$
-$A$                                                         ${A \lor B}$
-$A \lor B$ and $\lnot B$                                    ${A}$                           disjuctive syllogism
-$A \rightarrow B$ and $B \rightarrow C$                     ${A \rightarrow C}$             hypothetical syllogism; transitivity of implication
-$A \rightarrow B$ and $A$                                   ${B}$                           modus ponens
-$A \rightarrow B$ and $\lnot B$                             ${\lnot A}$                     modus tolens
-$A \leftrightarrow B$                                       ${A \rightarrow B}$
-${A \rightarrow C}$, ${B \rightarrow B}$, and ${A \lor B}$  ${C}$
-${A \rightarrow B}$, ${C \rightarrow D}$, and ${A \lor C}$  ${B \lor D}$
-$A \rightarrow B$                                           ${A \rightarrow (A \land B)}$
-$\lnot(A \land B)$, $A$                                     ${\lnot B}$
-
-## Assume-and-prove entailment
-
-A proof that assumes $A$ and derives $B$ entails that $A \rightarrow B$. This is commonly used in the inductive step of a proof by contradiction.
-
-A proof that assumes $A$ and derives $\bot$ entails that $\lnot A$. This is called "proof by contradiction" or "indirect proof."
 
 
 # Mathematical Identities

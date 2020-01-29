@@ -260,6 +260,8 @@ reading:
           txt: "example proof"
         - lnk: "techniques-q2.html"
           txt: "proof techniques"
+        - lnk: "direct.html"
+          txt: "direct proof"
         
     predicates:
         - "MCS 1.2"
