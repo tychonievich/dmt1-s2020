@@ -138,6 +138,8 @@ but the same guidelines still hold.
 When you what to prove that $\mathcal A \equiv \mathcal B$, you can start with $\mathcal A$ and show it is equivalent to $\mathcal B$, but you can also work backwards: start with $\mathcal B$ and show it is equivalent to $\mathcal A$.
 Sometimes one is a bit easier than the other, though generally not by much.
 
+Putting this another way, a direct proof of $\mathcal A \equiv \mathcal B$ looks like $\mathcal A \equiv X_1 \equiv X_2 \equiv \dots \equiv X_n \equiv \mathcal B$; it doesn't matter what order you show these: $\mathcal A \equiv X_1$ first or $X_n \equiv \mathcal B$ first. You could even start in the middle and work out, though that would be pretty unusual.
+
 It is also possible to work from both ends and meet in the middle, using the transitivity of equivalence:
 that is, if you prove that $\mathcal A \equiv \mathcal C$ and prove that $\mathcal B \equiv \mathcal C$
 then it must be the case that $\mathcal A \equiv \mathcal B$.
