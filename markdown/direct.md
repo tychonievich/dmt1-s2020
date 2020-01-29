@@ -140,10 +140,6 @@ Sometimes one is a bit easier than the other, though generally not by much.
 
 Putting this another way, a direct proof of $\mathcal A \equiv \mathcal B$ looks like $\mathcal A \equiv X_1 \equiv X_2 \equiv \dots \equiv X_n \equiv \mathcal B$; it doesn't matter what order you show these: $\mathcal A \equiv X_1$ first or $X_n \equiv \mathcal B$ first. You could even start in the middle and work out, though that would be pretty unusual.
 
-It is also possible to work from both ends and meet in the middle, using the transitivity of equivalence:
-that is, if you prove that $\mathcal A \equiv \mathcal C$ and prove that $\mathcal B \equiv \mathcal C$
-then it must be the case that $\mathcal A \equiv \mathcal B$.
-
 Working backwards, or from the middle, is also possible (but uncommon) with proofs of entailment.
 A direct proof of $\mathcal A \vDash \mathcal B$ looks like $\mathcal A \vDash X_1 \vDash X_2 \vDash \dots \vDash X_n \vDash \mathcal B$;
 it's usually easiest to work forwards from $\mathcal A$ to $\mathcal B$, but you can do the other direction, or both and meet in the middle, instead.
