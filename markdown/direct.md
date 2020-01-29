@@ -144,7 +144,7 @@ then it must be the case that $\mathcal A \equiv \mathcal B$.
 
 Working backwards, or from the middle, is also possible (but more constrained) with proofs of entailment.
 A direct proof of $\mathcal A \vDash \mathcal B$ looks like $\mathcal A \vDash X_1 \vDash X_2 \vDash \dots \vDash X_n \vDash \mathcal B$;
-its usually easiest to work forwards from $\mathcal A$ to $\mathcal B$, but you can do the other direction, or both and meet in the middle, instead.
+it's usually easiest to work forwards from $\mathcal A$ to $\mathcal B$, but you can do the other direction, or both and meet in the middle, instead.
 Note, though, that if you start from $\mathcal B$ your next step needs to be that some new expression entails $\mathcal B$, not that $\mathcal B entails something else.
 
 While working backwards can make some problems easier, it can also make them harder. We recommend only trying a backwards approach if you already tried going forwards and it didn't work.
