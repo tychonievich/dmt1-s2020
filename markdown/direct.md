@@ -27,7 +27,7 @@ Entailments
     When proving entailments, we may use any mix of entailments and equivalences in our proof.
     Entailments are not commutative: we must use them in the direction indicated in our proof.
     
-    Note that $\mathcal A \equiv \mathcal B$ and $\mathcal A \rightarrow \mathcal B \equiv \top$ are two ways of saying the same thing.
+    Note that $\mathcal A \vDash \mathcal B$ and $\mathcal A \rightarrow \mathcal B \equiv \top$ are two ways of saying the same thing.
     
     If $\mathcal A \equiv \mathcal B$ then both $\mathcal A \vDash \mathcal B$ and $\mathcal B \vDash \mathcal A$, and vice-versa.
     
