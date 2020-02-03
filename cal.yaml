@@ -210,6 +210,10 @@ reading:
         lnk: files/lab02.pdf
       - txt: lab key
         lnk: files/lab02-key.pdf
+      - txt: quiz
+        lnk: files/quiz02.pdf
+      - txt: key
+        lnk: files/quiz02-key.pdf
 
     lab03:
       - txt: list of symbols
