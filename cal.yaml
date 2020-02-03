@@ -350,6 +350,25 @@ assignments:
     IQ01:
         due: 2020-01-24 10:50:00
         weight: 0
+        rubric: 
+            kind: hybrid
+            auto-weight: 0
+            auto-late-days: 0
+            late-penalty: 1
+            human:
+                - (IQ01-1) have keys and expressions
+                - (IQ01-1) correct logical syntax
+                - (IQ01-1) q1 is "prep → do well"
+                - (IQ01-1) q2 is "fight ∧ look"
+                - (IQ01-1) q3 is "(perf ∨ staff) → (early ⊕ on-time)"
+                - (IQ01-1) q4 contains "(midget ∨ giant) → (size ∧ shop)"
+                - (IQ01-1) q4 contains "∧ never-met"
+                - (IQ01-2) answers in logic (not code) syntax
+                - (IQ01-2) q5 is "a ∧ ¬b"
+                - (IQ01-2) q6 is "¬a ∨ b" and/or "¬(a ∧ ¬b)"
+                - (IQ01-2) q8 ↔ column is 1010 0101
+                - (IQ01-2) q8 → column is 1101 1101
+                - (IQ01-2) q8 ⊕ column is xor of other two (0111 1000)
     IQ01-1:
         due: 2020-01-24 10:50:00
         hide: true
@@ -385,6 +404,22 @@ assignments:
                 - q8 ⊕ column is xor of other two (0111 1000)
     IQ02:
         due: 2020-01-31 10:50:00
+        rubric: 
+            kind: hybrid
+            auto-weight: 0
+            auto-late-days: 0
+            late-penalty: 1
+            human:
+                - correct logic syntax
+                - q1 is simple English
+                - q1 means "questing like or not-questing not-like"
+                - q2 has key
+                - q2 means "¬(hurt ∨ tired) → win"
+                - q3 shows non-equivalence
+                - q3 either a counter-example or a derivation
+                - q4 goes from one to other
+                - q4 labels rules
+                - q4 applies rules correctly
     IQ03:
         due: 2020-02-07 10:50:00
     IQ04:
