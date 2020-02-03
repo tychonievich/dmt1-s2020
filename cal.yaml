@@ -412,7 +412,7 @@ assignments:
             human:
                 - correct logic syntax
                 - q1 is simple English
-                - q1 means "questing like or not-questing not-like"
+                - q1 means "like iff questing"
                 - q2 has key
                 - q2 means "¬(hurt ∨ tired) → win"
                 - q3 shows non-equivalence
