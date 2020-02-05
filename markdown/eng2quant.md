@@ -65,7 +65,7 @@ Only one person is happy
         $\Big(\exists z \;.\; H(z)\Big) \land \Big(\forall x, y \;.\; \big(H(x) \land H(y)\big) \rightarrow (x = y)\Big)$
 
     If two people are distinct, at least one is unhappy
-    :   $\forall x, y \;.\; (x \neq y) \rightarrow \big(\lnot H(x) \lor \lnot H(y)\big)$
+    :   $$\forall x, y \;.\; (x \neq y) \rightarrow \big(\lnot H(x) \lor \lnot H(y)\big)$$
         
         Like the previous, this does not include "at lease one person is happy" but that can be added
 
@@ -99,7 +99,13 @@ Everyone appreciates someone who appreciates them
     
     $$\forall x \;.\; \exists y \;.\; A(x,y) \land A(y,x)$$
     
-    Everyone appreciates someone who appreciates them
-:   For everyone, there is someone (note them) that they appreciate and appreciates them:
+Everyone appreciates someone else who appreciates them
+:   For everyone, there is someone (not them) that they appreciate and appreciates them:
     
     $$\forall x \;.\; \exists y \;.\; (x \neq y) \land A(x,y) \land A(y,x)$$
+
+Everyone in this class appreciates someone in this class
+:   For everyone, if they are in the class then is someone who in this class and they appreciate them:
+    
+    $$\forall x \;.\; C(x) \rightarrow \exists y \;.\; C(y) \land A(x,y)$$
+    $$\forall x \;.\; \exists y \;.\; C(x) \rightarrow \big(C(y) \land A(x,y)\big)$$
