@@ -81,10 +81,25 @@ Only one person in this class is happy
     :   $$\forall x, y \;.\; \big(C(x) \land C(y) ^ H(x) \land H(y)\big) \rightarrow (x = y)$$
         
 Everyone appreciates someone
-:   For everyone, there is someone they appreciate
+:   For everyone, there is someone they appreciate:
     
     $$\forall x \;.\; \exists y \;.\; A(x,y)$$
     
     Note again we cannot commute the different quantifiers across each other. $\exists y \;.\; \forall x \;.\; A(x,y)$ means "there is someone that everyone appreciates".
 
 
+Everyone appreciates someone else
+:   For everyone, there is someone (not them) that they appreciate:
+    
+    $$\forall x \;.\; \exists y \;.\; (x \new y) \land A(x,y)$$
+    
+
+Everyone appreciates someone who appreciates them
+:   For everyone, there is someone that they appreciate and appreciates them:
+    
+    $$\forall x \;.\; \exists y \;.\; A(x,y) \land A(y,x)$$
+    
+    Everyone appreciates someone who appreciates them
+:   For everyone, there is someone (note them) that they appreciate and appreciates them:
+    
+    $$\forall x \;.\; \exists y \;.\; (x \neq y) \land A(x,y) \land A(y,x)$$
