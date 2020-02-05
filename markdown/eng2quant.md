@@ -122,7 +122,9 @@ Everyone in this class appreciates someone in this class
     $$\forall x \;.\; \exists y \;.\; C(x) \rightarrow \big(C(y) \land A(x,y)\big)$$
 
 Those in this class only appreciate people in this class
-:   For anyone, if you are in the class then for anyone, if they are not in the class you don't appreciate them
+:   There are several ways to go:
+
+    For anyone, if you are in the class then for anyone, if they are not in the class you don't appreciate them
     :    $$\forall x \;.\; C(x) \rightarrow \big(\forall y \;.\; \lnot C(y) \rightarrow \lnot A(x,y)\big)$$
          $$\forall x \;.\; \forall y \;.\; C(x) \rightarrow \big(\lnot C(y) \rightarrow \lnot A(x,y)\big)$$
     
