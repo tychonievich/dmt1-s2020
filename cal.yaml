@@ -73,8 +73,8 @@ office hours:
     Annie:
       when:
         - dow: Tuesday
-          start: 17:00:00
-          end: 18:00:00
+          start: 16:00:00
+          end: 17:00:00
           where: Rice 442
         - dow: Thursday
           start: 14:00:00
