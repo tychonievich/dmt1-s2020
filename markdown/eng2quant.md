@@ -127,5 +127,5 @@ Those in this class only appreciate people in this class
          $$\forall x \;.\; \forall y \;.\; C(x) \rightarrow \big(\lnot C(y) \rightarrow \lnot A(x,y)\big)$$
     
     For any two people, if one appreciates the other and one is in the class, so is the other
-    :    $$\forall x,y \;.\; A(x,y) \rightarrrow \big(C(x) \rightarrow C(y)\big)$$
+    :    $$\forall x,y \;.\; A(x,y) \rightarrow \big(C(x) \rightarrow C(y)\big)$$
     :    $$\forall x,y \;.\; \big(A(x,y) \land C(x)\big) \rightarrow C(y)$$
