@@ -43,11 +43,11 @@ Only one person is happy
 :   This can be handled several ways:
     
     Someone is happy, and everyone other than them is unhappy
-    :   $\exists x \;.\; H(x) \land \forall y\;.\; \big((x \neq y) \rightarrow \lnot H(y)\big)$
+    :   $$\exists x \;.\; H(x) \land \forall y\;.\; \big((x \neq y) \rightarrow \lnot H(y)\big)$$
         
         We can commute quantifiers over expressions that do not involve their variable:
         
-        $\exists x \;.\; \forall y\;.\;  H(x) \land \big((x \neq y) \rightarrow \lnot H(y)\big)$
+        $$\exists x \;.\; \forall y\;.\;  H(x) \land \big((x \neq y) \rightarrow \lnot H(y)\big)$$
         
         We cannot commute quantifiers over other quantifiers; for example $\forall y\;.\; \exists x \;.\; H(x) \land \big((x \neq y) \rightarrow \lnot H(y)\big)$ means "Pick anyone you want and I can find someone who is happy such that either my person is your person or your person is unhappy"; this is trivially true because I can always pick the same person you picked.
     
@@ -56,9 +56,9 @@ Only one person is happy
         
         Note that we commonly combine quantifiers of the same kind, and can commute them; the above is equivalent to both of the following:
         
-        $\forall x \;.\; \forall y \;.\; \big(H(x) \land H(y)\big) \rightarrow (x = y)$
+        $$\forall x \;.\; \forall y \;.\; \big(H(x) \land H(y)\big) \rightarrow (x = y)$$
 
-        $\forall y \;.\; \forall x \;.\; \big(H(x) \land H(y)\big) \rightarrow (x = y)$
+        $$\forall y \;.\; \forall x \;.\; \big(H(x) \land H(y)\big) \rightarrow (x = y)$$
         
         Note this does not include the claim "at least one person is happy"; we could add that with
         
@@ -73,12 +73,12 @@ Only one person in this class is happy
 :   Also has several forms
     
     Someone in the class is happy, and everyone in the class other than them is unhappy
-    :   $\exists x \;.\; \big(C(x) \land H(x)\big) \land \Big(\forall y \;.\; \big(C(y) \land (x \neq y)\big) \rightarrow \lnot H(y)\Big)$
+    :   $$\exists x \;.\; \big(C(x) \land H(x)\big) \land \Big(\forall y \;.\; \big(C(y) \land (x \neq y)\big) \rightarrow \lnot H(y)\Big)$$
         
-        Again, we can commute the $\forall x$: $\exists x \;.\; \forall y \;.\; \big(C(x) \land H(x)\big) \land \Big(\big(C(y) \land (x \neq y)\big) \rightarrow \lnot H(y)\Big)$
+        Again, we can commute the $\forall x$: $$\exists x \;.\; \forall y \;.\; \big(C(x) \land H(x)\big) \land \Big(\big(C(y) \land (x \neq y)\big) \rightarrow \lnot H(y)\Big)$$
     
     If two people are both in the class and both happy, they are the same person
-    :   $\forall x, y \;.\; \big(C(x) \land C(y) ^ H(x) \land H(y)\big) \rightarrow (x = y)$
+    :   $$\forall x, y \;.\; \big(C(x) \land C(y) ^ H(x) \land H(y)\big) \rightarrow (x = y)$$
         
 Everyone appreciates someone
 :   For everyone, there is someone they appreciate
