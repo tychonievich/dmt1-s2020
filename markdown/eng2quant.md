@@ -104,8 +104,19 @@ Everyone appreciates someone else who appreciates them
     
     $$\forall x \;.\; \exists y \;.\; (x \neq y) \land A(x,y) \land A(y,x)$$
 
+Everyone appreciates a person who appreciates them
+:   There is ambiguity in this sentence.
+
+    If "a person" means "everyone", we have
+    
+    $$\forall x, y \;.\; A(x,y) \rightarrow A(y,x)$$
+    
+    If "a person" means "someone",  we have
+    
+    $$\forall x \;.\; \exists y \;.\; A(x,y) \land A(y,x)$$
+
 Everyone in this class appreciates someone in this class
 :   For everyone, if they are in the class then is someone who in this class and they appreciate them:
     
-    $$\forall x \;.\; C(x) \rightarrow \exists y \;.\; C(y) \land A(x,y)$$
+    $$\forall x \;.\; C(x) \rightarrow \big(\exists y \;.\; C(y) \land A(x,y)\big)$$
     $$\forall x \;.\; \exists y \;.\; C(x) \rightarrow \big(C(y) \land A(x,y)\big)$$
