@@ -91,7 +91,7 @@ Everyone appreciates someone
 Everyone appreciates someone else
 :   For everyone, there is someone (not them) that they appreciate:
     
-    $$\forall x \;.\; \exists y \;.\; (x \new y) \land A(x,y)$$
+    $$\forall x \;.\; \exists y \;.\; (x \neq y) \land A(x,y)$$
     
 
 Everyone appreciates someone who appreciates them
