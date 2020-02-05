@@ -120,3 +120,12 @@ Everyone in this class appreciates someone in this class
     
     $$\forall x \;.\; C(x) \rightarrow \big(\exists y \;.\; C(y) \land A(x,y)\big)$$
     $$\forall x \;.\; \exists y \;.\; C(x) \rightarrow \big(C(y) \land A(x,y)\big)$$
+
+Those in this class only appreciate people in this class
+:   For anyone, if you are in the class then for anyone, if they are not in the class you don't appreciate them
+    :    $$\forall x \;.\; C(x) \rightarrow \big(\forall y \;.\; \lnot C(y) \rightarrow \lnot A(x,y)\big)$$
+         $$\forall x \;.\; \forall y \;.\; C(x) \rightarrow \big(\lnot C(y) \rightarrow \lnot A(x,y)\big)$$
+    
+    For any two people, if one appreciates the other and one is in the class, so is the other
+    :    $$\forall x,y \;.\; A(x,y) \rightarrrow \big(C(x) \rightarrow C(y)\big)$$
+    :    $$\forall x,y \;.\; \big(A(x,y) \land C(x)\big) \rightarrow C(y)$$
