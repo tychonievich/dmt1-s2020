@@ -131,3 +131,17 @@ Those in this class only appreciate people in this class
     For any two people, if one appreciates the other and one is in the class, so is the other
     :    $$\forall x,y \;.\; A(x,y) \rightarrow \big(C(x) \rightarrow C(y)\big)$$
     :    $$\forall x,y \;.\; \big(A(x,y) \land C(x)\big) \rightarrow C(y)$$
+
+Tychonievich only appreciates those who appreciate someone in this class
+:   There is an ambiguity in the English.
+    Does it mean there is one special person in the class who you have to appreciate to get Tychonievich's appreciation, or that you may appreciate anyone in the class you wish?
+    Let's look at one version for each:
+    
+    For anyone, if Tychonievich appreciates them then there is someone in the class they appreciate
+    :   $$\forall x \;.\; A(t,x) \rightarrow \big(\exists y \;.\; C(y) \land A(x,y)\big)$$
+        $$\forall x \;.\; \exists y \;.\; A(t,x) \rightarrow \big(C(y) \land A(x,y)\big)$$
+    
+    There's someone in the class such that anyone Tychonievich appreciates appreciates that person
+    :   $$\exists y \;.\; C(y) \land \big(\forall x \;.\; A(t,x) \rightarrow A(x,y)\big)$$
+        $$\exists y \;.\; \forall x \;.\; C(y) \land \big(A(t,x) \rightarrow A(x,y)\big)$$
+    
