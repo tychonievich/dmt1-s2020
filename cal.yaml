@@ -278,6 +278,7 @@ reading:
         - "∀x 21.0–21.3"
         - "skim MCS 4.1.0"
     quantifiers:
+        - {txt: write-up of class examples, lnk: eng2quant.html}
         - "∀x 21.4–24"
         - "MCS 3.6"
         - "skim ∀x 25–26"
