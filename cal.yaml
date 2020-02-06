@@ -145,8 +145,8 @@ lectures:
     - sets
     - sets
 
-    - data types
-    - data types
+    - [direct proof, proof by cases]
+    - [direct proof, proof by cases]
     
     - cardinality
 
@@ -289,6 +289,17 @@ reading:
         - lnk: "set-practice.html"
           txt: "practice"
         - "MCS 4.1.1"
+    
+    direct proofs:
+        - "MCS 1.2–1.6"
+        - "∀x 16"
+        - "∀x 32–33"
+        - "skim ∀x 37"
+    proof by cases:
+        - "MCS 1.7"
+        - "∀x 15.6"
+        - {txt: techniques, lnk: techniques-q4.md
+    
     
     data types:
         - "MCS 4.1–4.4"

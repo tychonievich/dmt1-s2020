@@ -7,7 +7,7 @@ Proof techniques we've learned so far:
 
 # Apply Equivalence Rules
 
-> See also §3.3 and §3.4.2, as well as [our list of equivalences](axioms.html#equivalences).
+> See also MCS 3.3 and MCS 3.4.2, [our list of equivalences](axioms.html#equivalences), and [our guide to direct proof](direct.html).
 
 In a small step proof, write an equivalent expression and cite the rule used to reach it. If several rules are needed, write them out one by one.
 
@@ -19,7 +19,7 @@ In a small step proof, write an equivalent expression and cite the rule used to 
 <tr><td>3</td><td>$(B \lor A) \lor C$</td><td>Commutative property of $\lor$</tr>
 <tr><td>4</td><td>$B \lor (A \lor C)$</td><td>Associative property of $\lor$</tr>
 <tr><td>5</td><td>$(\lnot (\lnot B)) \lor (A \lor C)$</td><td>Double negation</tr>
-<tr><td>6</td><td>$(\lnot B) \rightarrow (A \lor C)$</td><td>Disjunction ot implication</tr>
+<tr><td>6</td><td>$(\lnot B) \rightarrow (A \lor C)$</td><td>Disjunction to implication</tr>
 </table>
 {/}
 
@@ -41,7 +41,7 @@ $A \lor (B \lor C)$ can be re-written as $(\lnot \lnot B) \lor (A \lor C)$, whic
 
 # Case Analysis
 
-> See also §1.7, ∀x 17.5, and [our proof of one of De Morgan's laws](demorgan.html)
+> See also MCS 1.7, ∀x 17.5, and [our proof of one of De Morgan's laws](demorgan.html)
 
 1. State a disjunctive tautology.
 For a simple tautology like $P \lor \lnot P$, stating it is enough;
@@ -49,7 +49,7 @@ for more complicated tautologies, you may need to add a sub-proof or lemma^[a le
 
 2. Then proceed to consider several cases: one for each term of the disjunctive tautology, in each case assuming that that clause is true.
 
-3. After completing all of the cases, the full proof is also completed:we may not know *which* case's assumption is true, but because the disjunction is a tautology, we know at least one of them *must* be.
+3. After completing all of the cases, the full proof is also completed: we may not know *which* case's assumption is true, but because the disjunction is a tautology, we know at least one of them *must* be.
 
 {.example ...} This is a full proof of one of our known equivalences
 
