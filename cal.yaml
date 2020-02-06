@@ -142,12 +142,12 @@ lectures:
     - predicates
     - quantifiers
 
-    - sets
-    - sets
-
     - [direct proof, proof by cases]
     - [direct proof, proof by cases]
     
+    - sets
+    - sets
+
     - cardinality
 
     - [contradiction, induction]
@@ -159,8 +159,8 @@ lectures:
     - permutation
     - counting proofs
 
-    - automata
-    - automata
+    - state machines
+    - state machines
 
     - primes
     - logs
@@ -295,6 +295,7 @@ reading:
         - "∀x 16"
         - "∀x 32–33"
         - "skim ∀x 37"
+        - {lnk: "direct.html", txt: "direct proof"}
     proof by cases:
         - "MCS 1.7"
         - "∀x 15.6"
@@ -343,7 +344,7 @@ reading:
     
     graphs:
         - "MCS 9"
-    automata:
+    state machines:
         - "MCS 5.4"
     primes:
         - "MCS 8.0–8.7"
