@@ -298,7 +298,7 @@ reading:
     proof by cases:
         - "MCS 1.7"
         - "∀x 15.6"
-        - {txt: techniques, lnk: techniques-q4.md
+        - {txt: techniques, lnk: techniques-q4.md}
     
     
     data types:
