@@ -470,8 +470,8 @@ assignments:
                 - q4 ∄x . M(x) ∧ A(x)
                 - q5 ∀x . […] → L(s,x)
                 - q5 both A(x) and L(x,h) in antecedent
-                - q6 ∀x . ∃y . 
-                - q6 L(x,y) ∧ L(y,x)
+                - q6 ∀x . ∃y .
+                - q6 z(x) → (L(x,y) ∧ L(y,x))
 
     IQ04:
         due: 2020-02-14 10:50:00
