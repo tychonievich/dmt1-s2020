@@ -468,7 +468,7 @@ assignments:
             late-penalty: 1
             human:
                 - q4 ∄x . M(x) ∧ A(x)
-                - q5 ∀x . […] → L(a,x)
+                - q5 ∀x . […] → L(s,x)
                 - q5 both A(x) and L(x,h) in antecedent
                 - q6 ∀x . ∃y . 
                 - q6 L(x,y) ∧ L(y,x)
