@@ -443,6 +443,36 @@ assignments:
                 - q4 applies rules correctly
     IQ03:
         due: 2020-02-07 10:50:00
+
+    IQ03-1:
+        due: 2020-02-07 10:50:00
+        hide: true
+        rubric: 
+            kind: hybrid
+            auto-weight: 0
+            auto-late-days: 0
+            late-penalty: 1
+            human:
+                - q1 "something" as ∃ x . F(x)
+                - q1 and q3 "nothing" as ∄ x . G(x)
+                - q2 "some" as ∃x . P(x) ∧ Q(x)
+                - q2 and q3 "all" as ∃x . Q(x) → R(x)
+                - q3 "no" as ∄x . Q(x) ∧ P(x)
+    IQ03-2:
+        due: 2020-02-07 10:50:00
+        hide: true
+        rubric: 
+            kind: hybrid
+            auto-weight: 0
+            auto-late-days: 0
+            late-penalty: 1
+            human:
+                - q4 ∄x . M(x) ∧ A(x)
+                - q5 ∀x . […] → L(a,x)
+                - q5 both A(x) and L(x,h) in antecedent
+                - q6 ∀x . ∃y . 
+                - q6 L(x,y) ∧ L(y,x)
+
     IQ04:
         due: 2020-02-14 10:50:00
     IQ05:
