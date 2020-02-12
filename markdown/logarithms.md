@@ -46,7 +46,7 @@ Arguably, this is what the thousands separators do: they take a too-big-to-read 
 This leads to the change of base identity: 
 
 :::theorem
-$\displaystyle \log_b(x) = {\log_a(x) \over \log_a(b)}$
+$\boxed{\displaystyle \log_b(x) = {\log_a(x) \over \log_a(b)}}$
 :::
 
 This identity shows up often enough in computing that it is worth memorizing.
@@ -72,7 +72,7 @@ How much larger is the log of $x$ than the log of $1000 x$? It is larger, but on
 {.example} If $\log_{3}(81 \times x) = y$ then $3^y = 81 \times x = 3^4 \times x$ meaning $3^{y-4} = x$; thus $\log_{3}(x) = y-4 = \log_{3}(81 \times x) - 4 = \log_{3}(81 \times x) - \log_3{81}$
 
 :::theorem
-$\displaystyle \log_b(x y) = \log_b(x) + \log_b(y)$
+$\boxed{\displaystyle \log_b(x y) = \log_b(x) + \log_b(y)}$
 :::
 
 This identity shows up often enough in computing that it is worth memorizing.
@@ -81,8 +81,10 @@ In fact, logarithms are often used in algorithm design specifically for this pro
 {.example} $\ln(77) = 4.3438\dots = \ln(7 \times 11) = \ln(7) + \ln(11) = 1.9459\dots + 2.397895\dots$ 
 
 :::corollary
-$\displaystyle \log_a(b^n) = n \log_a(b)$
+$\boxed{\displaystyle \log_a(b^n) = n \log_a(b)}$
 :::
+
+This corollary is important enough to be worth memorizing in its own right.
 
 :::proof
 $b^n$ means $b \times b \times \dots \times b$ for $n$ $b$s.
@@ -92,8 +94,10 @@ $n\log_a(b)$
 :::
 
 :::corollary
-$\displaystyle \log_b\left(\frac{x}{y}\right) = \log_b(x) - \log_b(y)$
+$\boxed{\displaystyle \log_b\left(\frac{x}{y}\right) = \log_b(x) - \log_b(y)}$
 :::
+
+This corollary is important enough to be worth memorizing in its own right.
 
 :::proof
 $\displaystyle \log_b\left(\frac{x}{y}\right) = \log_b(x \times y^{-1})$; by theroem 2 that is $\log_b(x) + \log_b(y^{-1})$; by corollary 3 that becomes $\log_b(x) + -1 \log_b(y) = \log_b(x) - \log_b(y)$.
