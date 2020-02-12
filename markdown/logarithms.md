@@ -34,7 +34,7 @@ $\log(x)$ means either $\log_2(x)$ (common in computing) or $\log_{10}(x)$ (comm
 
 ## Change of base
 
-How important is the base used in a logarithm? It matters... but only by a fixed constant factor.
+How important is the base used in a logarithm? It matters, but only by a fixed constant factor.
 
 {.example} $\log_3(81) = 4$ because $3^4 = 81$; $3^4 = (3^2)^2 = 9^2$ so $\log_9(81) = 2$. But the same reasoning works for other values: if $\log_3(x) = y$ then $3^y = x$, meaning $(3^2)^{y\div 2} = x$, meaning $\log_9(x) = \frac{y}{2}$.
 
@@ -60,9 +60,42 @@ $\displaystyle \log_a(b) = \frac{1}{\log_b(a)}$
 :::
 
 :::proof
-$\displaystyle \log_a(b) = \frac{\log_b(b)}{\log_b(a)}$; since $b^1 = b$, $\log_b(b) = 1$ meaning $\displaystyle \log_a(b) = \frac{1}{\log_b(a)}$
+$\displaystyle \log_a(b) = \frac{\log_b(b)}{\log_b(a)}$; since $b^1 = b$, $\log_b(b) = 1$ meaning $\displaystyle \log_a(b) = \frac{1}{\log_b(a)}$.
 :::
 
 ## Logs of multiples
 
+How much larger is the log of $x$ than the log of $1000 x$? It is larger, but only by a fixed additive amount.
+
+{.example} Since $\log_{10}(x)$ is the number of digits needed to represent $x$, and $1000 \times x$ requires exactly three more digits, it must be the case that $\log_{10}(1000 \times x) = 3 + $\log_{10}(x) = \log_{10}{1000} + \log_{10}{x}$
+
+{.example} If $\log_{3}(81 \times x) = y$ then $3^y = 81 \times x = 3^4 \times x$ meaning $3^{y-4} = x$; thus $\log_{3}(x) = y-4 = \log_{3}(81 \times x) - 4 = \log_{3}(81 \times x) - \log_3{81}$
+
+:::theorem
+$\displaystyle \log_b(x y) = \log_b(x) + \log_b(y)$
+:::
+
+This identity shows up often enough in computing that it is worth memorizing.
+In fact, logarithms are often used in algorithm design specifically for this property of changing multiplications into additions.
+
+{.example} $\ln(77) = 4.3438\dots = \ln(7 \times 11) = \ln(7) + \ln(11) = 1.9459\dots + 2.397895\dots$ 
+
+:::corollary
+$\displaystyle \log_a(b^n) = n \log_a(b)$
+:::
+
+:::proof
+$b^n$ means $b \times b \times \dots \times b$ for $n$ $b$s.
+By the theorem, the log of that is $\log_a(b) + \log_a(b) + \dots + \log_a(b)$ for $n$ $b$s.
+$nx$ means $x + x + \dots + x$ for $n$ $x$s, yielding
+$n\log_a(b)$
+:::
+
+:::corollary
+$\displaystyle \log_b\left({\frac{x}{y}\right) = \log_b(x) - \log_b(y)$
+:::
+
+:::proof
+$\displaystyle \log_b\left({\frac{x}{y}\right) = \log_b(x \times y^{-1}) = \log_b(x) + \log_b(y^{-1}) = \log_b(x) + -1 \log_b(y) = \log_b(x) - \log_b(y)$
+:::
 
