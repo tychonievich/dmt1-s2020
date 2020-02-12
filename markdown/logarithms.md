@@ -43,7 +43,7 @@ How important is the base used in a logarithm? The answer is it matters... but o
 Arguably, this is what the thousands separators do: they take a too-big-to-read decimal numbers like 23276820784381 and re-write them as more readable milial numbers like 23,276,820,784,381
 {/}
 
-This leads to the change of base identity: $$\log_b(x) = {\log_a(x) \over \log_a(b)}$$ This identity shows up often enough in computing that it is worth memorizing.
+This leads to the change of base identity: $$\forall a,b,x > 0 \;.\; \log_b(x) = {\log_a(x) \over \log_a(b)}$$ This identity shows up often enough in computing that it is worth memorizing.
 
 ## Logs of multiples
 
