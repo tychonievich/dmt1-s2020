@@ -34,7 +34,7 @@ $\log(x)$ means either $\log_2(x)$ (common in computing) or $\log_{10}(x)$ (comm
 
 ## Change of base
 
-How important is the base used in a logarithm? The answer is it matters... but only by a fixed constant factor.
+How important is the base used in a logarithm? It matters... but only by a fixed constant factor.
 
 {.example} $\log_3(81) = 4$ because $3^4 = 81$; $3^4 = (3^2)^2 = 9^2$ so $\log_9(81) = 2$. But the same reasoning works for other values: if $\log_3(x) = y$ then $3^y = x$, meaning $(3^2)^{y\div 2} = x$, meaning $\log_9(x) = \frac{y}{2}$.
 
@@ -44,6 +44,18 @@ Arguably, this is what the thousands separators do: they take a too-big-to-read 
 {/}
 
 This leads to the change of base identity: $$\forall a,b,x > 0 \;.\; \log_b(x) = {\log_a(x) \over \log_a(b)}$$ This identity shows up often enough in computing that it is worth memorizing.
+
+{.example} $\log_2(x) = \log_2(10) \log_{10}(x)$, and $\log_2(10) = 3.321928\dots$. Thus, a 10-digit number is a $33.21928\dots$-bit number.
+
+{.example} The most common representation of non-integer numbers in computers is the IEEE-754 double-precision floating-point number, which is represented with 53 bits of precision. Dividing by $\log_2(10) = 3.321928\dots$, we find this is $15.95\dots$ digits of precision.
+
+:::corollary
+$\displaystyle \log_a(b) = \frac{1}{\log_b(a)}$
+:::
+
+:::proof
+$\displaystyle \log_a(b) = \frac{\log_b(b)}{\log_b(a)}$; since $b^1 = b$, $\log_b(b) = 1$ meaning $\displaystyle \log_a(b) = \frac{1}{\log_b(a)}$
+:::
 
 ## Logs of multiples
 
