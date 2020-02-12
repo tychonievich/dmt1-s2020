@@ -78,7 +78,7 @@ $\boxed{\displaystyle \log_b(x y) = \log_b(x) + \log_b(y)}$
 :::
 
 This identity shows up often enough in computing that it is worth memorizing.
-In fact, logarithms are sometimes used in algorithm design specifically for this property of changing multiplications into additions.
+In fact, logarithms are sometimes used in algorithm design specifically for this property of changing multiplications into additions^[For one example algorithm of this kind that has figured prominently in debates about software patents see [Karmarkar's Algorithm](https://en.wikipedia.org/wiki/Karmarkar%27s_algorithm)].
 
 {.example} $\ln(77) = 4.3438\dots = \ln(7 \times 11) = \ln(7) + \ln(11) = 1.9459\dots + 2.397895\dots$ 
 
