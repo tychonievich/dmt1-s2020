@@ -78,7 +78,7 @@ $\boxed{\displaystyle \log_b(x y) = \log_b(x) + \log_b(y)}$
 :::
 
 This identity shows up often enough in computing that it is worth memorizing.
-In fact, logarithms are often used in algorithm design specifically for this property of changing multiplications into additions.
+In fact, logarithms are sometimes used in algorithm design specifically for this property of changing multiplications into additions.
 
 {.example} $\ln(77) = 4.3438\dots = \ln(7 \times 11) = \ln(7) + \ln(11) = 1.9459\dots + 2.397895\dots$ 
 
@@ -92,7 +92,7 @@ This corollary is important enough to be worth memorizing in its own right.
 $b^n$ means $b \times b \times \dots \times b$ for $n$ $b$s.
 By theorem 2, the log of that is $\log_a(b) + \log_a(b) + \dots + \log_a(b)$ for $n$ $b$s.
 $nx$ means $x + x + \dots + x$ for $n$ $x$s, yielding
-$n\log_a(b)$
+$n\log_a(b)$.
 :::
 
 :::corollary
