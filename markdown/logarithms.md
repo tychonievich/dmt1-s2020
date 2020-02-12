@@ -46,7 +46,7 @@ Arguably, this is what the thousands separators do: they take a too-big-to-read 
 This leads to the change of base identity: 
 
 :::theorem
-$\displaystyle \forall a,b,x > 0 \;.\; \log_b(x) = {\log_a(x) \over \log_a(b)}$
+$\displaystyle \log_b(x) = {\log_a(x) \over \log_a(b)}$
 :::
 
 This identity shows up often enough in computing that it is worth memorizing.
