@@ -18,7 +18,7 @@ The **log base 10 of $x$** is a continuous parallel to the number of digits need
 
 {.example} $\log_{10}(81) = 1.908405\dots$, a number a bit smaller than 2 because $81$ is a bit smaller than the largest 2-digit number.
 
-{.example} $\log_{10}(99.999999\dots) = 2$ because it is as big as 2-digit numbers can be. $\log_{10}(100.0000\dots) = 2$ as well, because $100.000\dots - 99.999\dots = 0$.
+{.example} $\log_{10}(99.999999\dots) = 2$ because it is as big as 2-digit numbers can be. This also means that $\log_{10}(100.0000\dots) = 2$ because $100.000\dots - 99.999\dots = 0$.
 
 The **log base 2 of $x$** is a continuous parallel to the number of digits needed to write $x$ as a binary (base-2) integer.
 
