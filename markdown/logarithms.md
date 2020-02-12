@@ -59,6 +59,8 @@ This identity shows up often enough in computing that it is worth memorizing.
 $\displaystyle \log_a(b) = \frac{1}{\log_b(a)}$
 :::
 
+This corollary is somewhat interesting, but not useful often enough to be worth committing to memory.
+
 :::proof
 $\displaystyle \log_a(b) = \frac{\log_b(b)}{\log_b(a)}$; since $b^1 = b$, $\log_b(b) = 1$ meaning $\displaystyle \log_a(b) = \frac{1}{\log_b(a)}$.
 :::
