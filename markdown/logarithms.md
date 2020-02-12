@@ -43,7 +43,13 @@ How important is the base used in a logarithm? It matters... but only by a fixed
 Arguably, this is what the thousands separators do: they take a too-big-to-read decimal numbers like 23276820784381 and re-write them as more readable milial numbers like 23,276,820,784,381
 {/}
 
-This leads to the change of base identity: $$\forall a,b,x > 0 \;.\; \log_b(x) = {\log_a(x) \over \log_a(b)}$$ This identity shows up often enough in computing that it is worth memorizing.
+This leads to the change of base identity: 
+
+:::theorem
+$\displaystyle \forall a,b,x > 0 \;.\; \log_b(x) = {\log_a(x) \over \log_a(b)}$
+:::
+
+This identity shows up often enough in computing that it is worth memorizing.
 
 {.example} $\log_2(x) = \log_2(10) \log_{10}(x)$, and $\log_2(10) = 3.321928\dots$. Thus, a 10-digit number is a $33.21928\dots$-bit number.
 
