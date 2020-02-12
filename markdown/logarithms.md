@@ -86,7 +86,7 @@ $\displaystyle \log_a(b^n) = n \log_a(b)$
 
 :::proof
 $b^n$ means $b \times b \times \dots \times b$ for $n$ $b$s.
-By the theorem, the log of that is $\log_a(b) + \log_a(b) + \dots + \log_a(b)$ for $n$ $b$s.
+By theorem 2, the log of that is $\log_a(b) + \log_a(b) + \dots + \log_a(b)$ for $n$ $b$s.
 $nx$ means $x + x + \dots + x$ for $n$ $x$s, yielding
 $n\log_a(b)$
 :::
@@ -96,6 +96,6 @@ $\displaystyle \log_b\left(\frac{x}{y}\right) = \log_b(x) - \log_b(y)$
 :::
 
 :::proof
-$\displaystyle \log_b\left(\frac{x}{y}\right) = \log_b(x \times y^{-1}) = \log_b(x) + \log_b(y^{-1}) = \log_b(x) + -1 \log_b(y) = \log_b(x) - \log_b(y)$
+$\displaystyle \log_b\left(\frac{x}{y}\right) = \log_b(x \times y^{-1})$; by theroem 2 that is $\log_b(x) + \log_b(y^{-1})$; by corollary 3 that becomes $\log_b(x) + -1 \log_b(y) = \log_b(x) - \log_b(y)$.
 :::
 
