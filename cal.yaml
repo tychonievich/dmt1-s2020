@@ -229,8 +229,10 @@ reading:
 
 
     lab04:
-      - txt: list of symbols
-        lnk: symbols.html
+      - txt: lab
+        lnk: files/lab04.pdf
+      - txt: lab key
+        lnk: files/lab04-key.pdf
 
     lab05: []
     lab06: []
