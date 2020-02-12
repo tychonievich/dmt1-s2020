@@ -24,3 +24,27 @@ The **log base 2 of $x$** is a continuous parallel to the number of digits neede
 
 {.example} $\log_{2}(81) = 6.3395\dots$ because the binary for 81 is 1010001, more than you can fit in 6 bits but less than you can fit in 7.
 
+$\ln(x)$ means $\log_e(x)$, where $e$ is a [universal constant](https://oeis.org/A001113) sometimes called Euler's number of Napier's constant.
+
+$\lg(x)$ means $\log_2(x)$
+
+$\log(x)$ means either $\log_2(x)$ (common in computing) or $\log_{10}(x)$ (common in engineering) or $\log_e(x)$ (common in mathematics).
+
+# Defining properties
+
+## Change of base
+
+How important is the base used in a logarithm? The answer is it matters... but only by a fixed constant factor.
+
+{.example} $\log_3(81) = 4$ because $3^4 = 81$; $3^4 = (3^2)^2 = 9^2$ so $\log_9(81) = 2$. But the same reasoning works for other values: if $\log_3(x) = y$ then $3^y = x$, meaning $(3^2)^{y\div 2} = x$, meaning $\log_9(x) = \frac{y}{2}$.
+
+{.example ...} Suppose a number used 24 digits to write in base 10. How many digits does it take to write in base 1000? 8: each cluster of 3 digits in base 10 turns into one digit in base 1000, so $\log_{1000}(x) = \frac{1}{3}\log_{10}(x)$.
+
+Arguably, this is what the thousands separators do: they take a too-big-to-read decimal numbers like 23276820784381 and re-write them as more readable milial numbers like 23,276,820,784,381
+{/}
+
+This leads to the change of base identity: $$\log_b(x) = {\log_a(x) \over \log_a(b)}$$ This identity shows up often enough in computing that it is worth memorizing.
+
+## Logs of multiples
+
+
