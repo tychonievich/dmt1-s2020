@@ -92,7 +92,7 @@ $n\log_a(b)$
 :::
 
 :::corollary
-$\displaystyle \log_b\left({\frac{x}{y}\right) = \log_b(x) - \log_b(y)$
+$\displaystyle \log_b\left(\frac{x}{y}\right) = \log_b(x) - \log_b(y)$
 :::
 
 :::proof
