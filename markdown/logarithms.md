@@ -96,6 +96,6 @@ $\displaystyle \log_b\left(\frac{x}{y}\right) = \log_b(x) - \log_b(y)$
 :::
 
 :::proof
-$\displaystyle \log_b\left({\frac{x}{y}\right) = \log_b(x \times y^{-1}) = \log_b(x) + \log_b(y^{-1}) = \log_b(x) + -1 \log_b(y) = \log_b(x) - \log_b(y)$
+$\displaystyle \log_b\left(\frac{x}{y}\right) = \log_b(x \times y^{-1}) = \log_b(x) + \log_b(y^{-1}) = \log_b(x) + -1 \log_b(y) = \log_b(x) - \log_b(y)$
 :::
 
