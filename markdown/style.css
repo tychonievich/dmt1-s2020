@@ -139,12 +139,12 @@ body {
 	counter-set: lemma 0 theorem 0 definition 0 corollary 0; 
 }
 
-.proof:not(.cont) > *:first-child:before { content: "Proof. "; font-style:italic; }
+.proof:not(.cont) > *:first-child:before { content: "Proof.  "; font-style:italic; }
 .proof:not(.frag) > *:last-child:after { content: " ∎"; }
-.lemma > *:first-child:before { counter-increment:lemma; content: "Lemma " counter(lemma) ". "; font-style:italic; }
-.definition > *:first-child:before { counter-increment:definition; content: "Definition " counter(definition) ". "; font-style:italic; }
-.corollary > *:first-child:before { counter-increment:corollary; content: "Corollary " counter(corollary) ". "; font-style:italic; }
-.theorem > *:first-child:before { counter-increment:theorem; content: "Theorem " counter(theorem) ". "; font-style:italic; }
+.lemma > *:first-child:before { counter-increment:lemma; content: "Lemma " counter(lemma) ".  "; font-style:italic; }
+.definition > *:first-child:before { counter-increment:definition; content: "Definition " counter(definition) ".  "; font-style:italic; }
+.corollary > *:first-child:before { counter-increment:corollary; content: "Corollary " counter(corollary) ".  "; font-style:italic; }
+.theorem > *:first-child:before { counter-increment:theorem; content: "Theorem " counter(theorem) ".  "; font-style:italic; }
 
 .proof > *:first-child, .lemma > *:first-child, .definition > *:first-child, .corollary > *:first-child, .theorem > *:first-child { text-indent: -1ex; }
 
