@@ -11,6 +11,7 @@ and thus have decided to cover them in this course.
 As a summary, your should know that
 
 - $\displaystyle \log_b(x) = w \equiv b^w = x$ 
+    - which implies that $\displaystyle b^{\log_b(x)} = x$
 - $\displaystyle \log_x(y)$ is approximately the number of digits needed to represent $y$ in base-$x$
     - The exact number is $\displaystyle 1 + \big\lfloor \log_x(y) \big\rfloor$
 - $\displaystyle \log_b(x y) = \log_b(x) + \log_b(y)$ and its related identities: 
@@ -117,3 +118,14 @@ This corollary is important enough to be worth memorizing in its own right.
 $\displaystyle \log_b\left(\frac{x}{y}\right) = \log_b(x \times y^{-1})$; by theroem 2 that is $\log_b(x) + \log_b(y^{-1})$; by corollary 2 that becomes $\log_b(x) + -1 \log_b(y) = \log_b(x) - \log_b(y)$.
 :::
 
+# Other math you may have missed learning
+
+- $\lfloor x \rfloor$ is called the "floor of $x$" and means "the largest integer not larger than $x$"; thus $\lfloor 3.8 \rfloor = 3$, $\lfloor 3 \rfloor = 3$, and $\lfloor -2.2 \rfloor = -3$.
+
+- $\lceil x \rceil$ is called the "ceiling of $x$" and means "the smallest integer not smaller than $x$"; thus $\lceil 3.2 \rceil = 4$, $\lceil 3 \rceil = 3$, and $\lceil -2.8 \rceil = -2$.
+
+- $x \mod y$ means "the remainder of $x$ divided by $y$" and is similar to the computing operator `%`.
+    
+    Sometimes the $\mod$ is applied to entire equations; for example, $7 = 11 \mod 4$.
+    
+    If either $x$ or $y$ is negative, sources differ on if $x \mod y$ should be positive or negative.
