@@ -89,9 +89,9 @@ $\boxed{\displaystyle \log_a(b^n) = n \log_a(b)}$
 This corollary is important enough to be worth memorizing in its own right.
 
 :::proof
-$b^n$ means $b \times b \times \dots \times b$ for $n$ $b$s.
-By theorem 2, the log of that is $\log_a(b) + \log_a(b) + \dots + \log_a(b)$ for $n$ $b$s.
-$nx$ means $x + x + \dots + x$ for $n$ $x$s, yielding
+$b^n$ means $b \times b \times \dots \times b$ with $n$ $b$s.
+By theorem 2, the log of that is $\log_a(b) + \log_a(b) + \dots + \log_a(b)$ with $n$ $\log_a(b)$s.
+Since $x + x + \dots + x$ with $n$ $x$s is the definiton of $nx$, we arrive at
 $n\log_a(b)$.
 :::
 
@@ -102,6 +102,6 @@ $\boxed{\displaystyle \log_b\left(\frac{x}{y}\right) = \log_b(x) - \log_b(y)}$
 This corollary is important enough to be worth memorizing in its own right.
 
 :::proof
-$\displaystyle \log_b\left(\frac{x}{y}\right) = \log_b(x \times y^{-1})$; by theroem 2 that is $\log_b(x) + \log_b(y^{-1})$; by corollary 3 that becomes $\log_b(x) + -1 \log_b(y) = \log_b(x) - \log_b(y)$.
+$\displaystyle \log_b\left(\frac{x}{y}\right) = \log_b(x \times y^{-1})$; by theroem 2 that is $\log_b(x) + \log_b(y^{-1})$; by corollary 2 that becomes $\log_b(x) + -1 \log_b(y) = \log_b(x) - \log_b(y)$.
 :::
 
