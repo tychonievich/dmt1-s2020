@@ -24,7 +24,7 @@ The **log base 2 of $x$** is a continuous parallel to the number of digits neede
 
 {.example} $\log_{2}(81) = 6.3395\dots$ because the binary for 81 is 1010001, more than you can fit in 6 bits but less than you can fit in 7.
 
-$\ln(x)$ means $\log_e(x)$, where $e$ is a [universal constant](https://oeis.org/A001113) sometimes called Euler's number of Napier's constant.
+$\ln(x)$ means $\log_e(x)$, where $e$ is [2.71828182845904523536…](https://oeis.org/A001113) and is sometimes called Euler's number or Napier's constant.
 
 $\lg(x)$ means $\log_2(x)$
 
@@ -59,7 +59,7 @@ This identity shows up often enough in computing that it is worth memorizing.
 $\displaystyle \log_a(b) = \frac{1}{\log_b(a)}$
 :::
 
-This corollary is somewhat interesting, but not useful often enough to be worth committing to memory.
+This corollary is somewhat interesting, but probably not worth memorizing.
 
 :::proof
 $\displaystyle \log_a(b) = \frac{\log_b(b)}{\log_b(a)}$; since $b^1 = b$, $\log_b(b) = 1$ meaning $\displaystyle \log_a(b) = \frac{1}{\log_b(a)}$.
