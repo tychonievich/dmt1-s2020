@@ -75,10 +75,10 @@ Only one person in this class is happy
     Someone in the class is happy, and everyone in the class other than them is unhappy
     :   $$\exists x \;.\; \big(C(x) \land H(x)\big) \land \Big(\forall y \;.\; \big(C(y) \land (x \neq y)\big) \rightarrow \lnot H(y)\Big)$$
         
-        Again, we can commute the $\forall x$: $$\exists x \;.\; \forall y \;.\; \big(C(x) \land H(x)\big) \land \Big(\big(C(y) \land (x \neq y)\big) \rightarrow \lnot H(y)\Big)$$
+        Again, we can commute the $\forall y$: $$\exists x \;.\; \forall y \;.\; \big(C(x) \land H(x)\big) \land \Big(\big(C(y) \land (x \neq y)\big) \rightarrow \lnot H(y)\Big)$$
     
     If two people are both in the class and both happy, they are the same person
-    :   $$\forall x, y \;.\; \big(C(x) \land C(y) ^ H(x) \land H(y)\big) \rightarrow (x = y)$$
+    :   $$\forall x, y \;.\; \big(C(x) \land C(y) \land H(x) \land H(y)\big) \rightarrow (x = y)$$
         
 Everyone appreciates someone
 :   For everyone, there is someone they appreciate:
