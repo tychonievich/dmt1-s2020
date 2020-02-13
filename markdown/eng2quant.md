@@ -95,9 +95,15 @@ Everyone appreciates someone else
     
 
 Everyone appreciates someone who appreciates them
-:   For everyone, there is someone that they appreciate and appreciates them:
-    
-    $$\forall x \;.\; \exists y \;.\; A(x,y) \land A(y,x)$$
+:   There is ambiguity in the English: is this an observation that among those we each appreciate is someone who reciprocates that appreciation; or is it a universal rule that everyone reciprocates all appreciation?
+
+    For everyone, there is someone that they appreciate and appreciates them
+    :   $$\forall x \;.\; \exists y \;.\; A(x,y) \land A(y,x)$$
+
+    For everyone, they appreciate everyone who appreciates them
+    :   $$\forall x, y \;.\; A(x,y) \rightarrow A(y,x)$$
+        which can also be written
+        $$\forall x, y \;.\; A(x,y) \leftrightarrow A(y,x)$$
     
 Everyone appreciates someone else who appreciates them
 :   For everyone, there is someone (not them) that they appreciate and appreciates them:
