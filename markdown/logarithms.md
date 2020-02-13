@@ -8,6 +8,14 @@ and were once taught extensively in pre-college algebra courses;
 however, we have observed that fewer and fewer students come in to UVA already knowing them each year,
 and thus have decided to cover them in this course.
 
+As a summary, your should know that
+
+- $\displaystyle \log_x(y) = z \equiv x^z = y$ 
+- $\displaystyle \log_x(y)$ is approximately the number of digits needed to represent $y$ in base-$x$
+- $\displaystyle \log_b(x y) = \log_b(x) + \log_b(y)$ and its related identities: $\displaystyle \log_a(b^n) = n \log_a(b)$ and $\displaystyle \log_b\left(\frac{x}{y}\right) = \log_b(x) - \log_b(y)$
+- $\displaystyle \log_b(x) = {\log_a(x) \over \log_a(b)}$ -- i.e., changing base is multiplying by a constant
+
+
 # Definitions
 
 The **log base $b$ of $x$** is written $\log_b(x)$ and means "the power to which $b$ must be raised to result in $x$".
@@ -41,6 +49,7 @@ How important is the base used in a logarithm? It matters, but only by a fixed c
 {.example ...} Suppose a number used 24 digits to write in base 10. How many digits does it take to write in base 1000? 8: each cluster of 3 digits in base 10 turns into one digit in base 1000, so $\log_{1000}(x) = \frac{1}{3}\log_{10}(x)$.
 
 Arguably, this is what the thousands separators do: they take a too-big-to-read decimal numbers like 23276820784381 and re-write them as more readable milial numbers like 23,276,820,784,381
+where 784 is a single "digit" in this base-1000 representation.
 {/}
 
 This leads to the change of base identity: 
