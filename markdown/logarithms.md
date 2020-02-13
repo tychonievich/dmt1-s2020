@@ -12,6 +12,7 @@ As a summary, your should know that
 
 - $\displaystyle \log_b(x) = w \equiv b^w = x$ 
 - $\displaystyle \log_x(y)$ is approximately the number of digits needed to represent $y$ in base-$x$
+    - The exact number is $\displaystyle 1 + \left\lfloor \log_x(y) \right\rfloor$
 - $\displaystyle \log_b(x y) = \log_b(x) + \log_b(y)$ and its related identities: 
     - $\displaystyle \log_a(b^n) = n \log_a(b)$ and 
     - $\displaystyle \log_b\left(\frac{x}{y}\right) = \log_b(x) - \log_b(y)$
