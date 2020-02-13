@@ -132,7 +132,7 @@ Everyone in this class appreciates someone in this class
     $$\forall x \;.\; C(x) \rightarrow \big(\exists y \;.\; C(y) \land A(x,y)\big)$$
     $$\forall x \;.\; \exists y \;.\; C(x) \rightarrow \big(C(y) \land A(x,y)\big)$$
 
-There's someone in this class that everyone appreciates
+There's someone in this class that everyone in the class appreciates
 :   $$\exists x \;.\; C(x) \land \big(\forall y \;.\; C(y) \rightarrow A(x,y)\big)$$
     $$\exists x \;.\; \forall y \;.\; C(x) \land \big(C(y) \rightarrow A(x,y)\big)$$
 
