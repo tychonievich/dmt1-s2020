@@ -10,7 +10,7 @@ and thus have decided to cover them in this course.
 
 As a summary, your should know that
 
-- $\displaystyle \log_x(y) = z \equiv x^z = y$ 
+- $\displaystyle \log_b(x) = w \equiv b^w = x$ 
 - $\displaystyle \log_x(y)$ is approximately the number of digits needed to represent $y$ in base-$x$
 - $\displaystyle \log_b(x y) = \log_b(x) + \log_b(y)$ and its related identities: $\displaystyle \log_a(b^n) = n \log_a(b)$ and $\displaystyle \log_b\left(\frac{x}{y}\right) = \log_b(x) - \log_b(y)$
 - $\displaystyle \log_b(x) = {\log_a(x) \over \log_a(b)}$ -- i.e., changing base is multiplying by a constant
