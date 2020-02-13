@@ -112,7 +112,7 @@ Everyone appreciates someone else who appreciates them
     
     This also has the same ambiguity noted for the previous item, leading to
 
-    $$\forall x, y \;.\; (x \neq y) \rightarrow \big(A(x,y) \\leftrightarrow A(y,x)\big)$$
+    $$\forall x, y \;.\; (x \neq y) \rightarrow \big(A(x,y) \leftrightarrow A(y,x)\big)$$
 
 Everyone appreciates a person who appreciates them
 :   There is ambiguity in this sentence, as with the two before.
