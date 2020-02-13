@@ -109,13 +109,18 @@ Everyone appreciates someone else who appreciates them
 :   For everyone, there is someone (not them) that they appreciate and appreciates them:
     
     $$\forall x \;.\; \exists y \;.\; (x \neq y) \land A(x,y) \land A(y,x)$$
+    
+    This also has the same ambiguity noted for the previous item, leading to
+
+    $$\forall x, y \;.\; (x \neq y) \rightarrow \big(A(x,y) \\leftrightarrow A(y,x)\big)$$
 
 Everyone appreciates a person who appreciates them
-:   There is ambiguity in this sentence.
+:   There is ambiguity in this sentence, as with the two before.
 
     If "a person" means "everyone", we have
     
     $$\forall x, y \;.\; A(x,y) \rightarrow A(y,x)$$
+    $$\forall x, y \;.\; A(x,y) \leftrightarrow A(y,x)$$
     
     If "a person" means "someone",  we have
     
