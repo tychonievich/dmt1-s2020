@@ -126,6 +126,6 @@ $\displaystyle \log_b\left(\frac{x}{y}\right) = \log_b(x \times y^{-1})$; by the
 
 - $x \mod y$ means "the remainder of $x$ divided by $y$" and is similar to the computing operator `%`.
     
-    Sometimes the $\mod$ is applied to entire equations; for example, $7 = 11 \mod 4$.
+    Sometimes mod is applied to entire equations; for example, $7 = 11 \mod 4$.
     
     If either $x$ or $y$ is negative, sources differ on if $x \mod y$ should be positive or negative.
