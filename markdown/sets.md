@@ -165,7 +165,7 @@ $A \cap B$ is defined to mean "a set $S$ such that $\forall x. (x \in S \leftrig
     the positive numbers    the integers        the positive integers
     beach paraphernalia     towels              beach towels
     
-    If $A \cap B = {}$, we say that $A$ and $B$ are **disjoint**.
+    If $A \cap B = \{\}$, we say that $A$ and $B$ are **disjoint**.
     Less commonly, **overlap** is used to mean "are not disjoint".
 
     Intersection is common in computing's use of sets.
