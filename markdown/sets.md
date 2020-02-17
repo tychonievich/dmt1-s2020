@@ -42,7 +42,7 @@ instead of formally with an emphasis on precision; if you want a precise definit
     
     Note that this observation is also true of numbers: once you've written 7, you've written all there is to know about it. We can talk about every 7 as referring to the same number, even if we write it as Ⅶ or "seven" instead.
     
-    Note that we will define other properties which are derived from its members, such as *cardinality* (the number of members it has).
+    We will define other properties which are derived from its members, such as *cardinality* (the number of members it has).
 
 1. **A set can be empty. Both {} and $\emptyset$ represent the empty set.**
     
