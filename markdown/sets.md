@@ -33,6 +33,8 @@ instead of formally with an emphasis on precision; if you want a precise definit
     Thus, {1, 2} and {2, 1} are two ways of writing the same set.
     
     Also, {1, 2, 2} is nonsensical: {1, 2} already told us that the set had both 1 and 2 inside it; adding another 2 doesn't make any sense, any more than it makes sense to say "I'm a student and a logician and a logician." We might *guess* that they were being sloppy about sets and meant {1, 2}, but perhaps they made a typo and meant {1, 2, 3} instead? We simply can't tell.
+    
+    When sets are generated formally (by code or descriptive mathematical notation) with duplicated members, we ignore the duplicates. So the set {18, 19, your age in years} is either a 2- or 3-element set depending on if you are 18 or 19 or not.
 
 1. **The only property of a set is its members.**
     
