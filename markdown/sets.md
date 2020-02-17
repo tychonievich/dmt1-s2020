@@ -3,7 +3,7 @@ title: Sets
 ...
 
 {.aside ...}
-The first clause of §4 is "We have assumed that you’ve already been introduced to the concepts of sets...". The authors of that text may have assumed that, but I do not. This text is intended to fill in that gap.
+The first clause of MCS chapter 4 is "We have assumed that you’ve already been introduced to the concepts of sets...". The authors of that text may have assumed that, but I do not. This text is intended to fill in that gap.
 
 Part of the reason this write-up exists is that sets are traditionally the domain of algebra, not discrete math; but the subset of algebra that is taught in secondary school and called "algebra" (as opposed to what is taught in university and called "algebra") often omits sets. Some of you had a broad algebra experience and already know sets, but many of you did not.
 {/}
@@ -12,7 +12,7 @@ Part of the reason this write-up exists is that sets are traditionally the domai
 
 Let's build up a definition of set one step at a time.
 I'll do this informally with an emphasis on ease of understanding
-instead of formally with an emphasis on precision; if you want a precise definition instead, see §7.3.2.
+instead of formally with an emphasis on precision; if you want a precise definition instead, see MCS 7.3.2.
 
 1. **A set contains members.**
     
@@ -238,7 +238,7 @@ $|A|$ means "the number of distinct values that are members of $A$
 
 ## Set-builder notation
 
-See §4.1.4. We'll use this a lot.
+See MCS 4.1.4. We'll use this a lot.
 
 {.aside ...}
 Python (alone among the languages I use regularly) has a variation of set-builder notation. For example, the set-builder notation $\{x \in \mathbb{Z} \;|\; x^3-30x+1>0\}$ would be written `{x for x in Z if x**3-30*x+1 > 0}`{.python}, though you'd have to define a sensible, finite `Z` first (perhaps `range(-10,11)`{.python}).
@@ -248,7 +248,7 @@ It also allows computation after the selection, such as `[x**3 for x in range(15
 ## Common sets
 
 There are some sets that are so common they have their own special symbol.
-§4.1.1 has a reasonable list of these.
+MCS 4.1.1 has a reasonable list of these.
 
 Note that even in handwriting, you have to double at least one of the mostly-vertical lines for people to know you mean the set; "Z" is not the set of integers, "ℤ" is.
 The official word for this orthography is "double-struck" as in "ℝ is a double-struck R," but you can probably make it through your entire life in computing (including this class) without ever needing to know that word.
