@@ -4,6 +4,7 @@ p { margin: 0em; }
 p + p, p + table, table + p, table + table { margin-top: 1ex; }
 a { color: #0088cc; text-decoration: none; }
 a:hover, a:focus { color: #005580; text-decoration: underline; }
+li > p:last-child { margin-bottom: 0.5ex; }
 
 /* override the common "fixed with is smaller" defaults of browsers */
 body,code,pre,tt { font-size:12pt; }

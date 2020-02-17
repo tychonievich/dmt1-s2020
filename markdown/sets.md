@@ -20,13 +20,13 @@ instead of formally with an emphasis on precision; if you want a precise definit
     **Member** is the mathematician's word for something inside a set;
     in programming, we more commonly call them *elements* instead.
     
-    There is no constraint on the type of the members of set.
+    There is no inherent constraint on the type of the members of sets.
 
 1. **We write a set with curly braces and commas.**
     
     For example, {1, 3} is a set. So is {dog, cat, mouse}.
     
-    Arguably, {`x?y:z`, satisfaction, 2102, 🐉} is also a set, but sets whose members do not have some defined type are so uncommon some would say they are not actually sets.
+    Arguably, {`x?y:z`, satisfaction, 2102, 🐉} is also a set, but sets whose members do not have some single unifying defined type are so uncommon some would say they are not actually sets.
 
 1. **A member of a set has no other set-related properties besides membership in the set: not order or position in the set, not number of copies in the set, etc.**
     
