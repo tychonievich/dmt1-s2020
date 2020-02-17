@@ -54,7 +54,7 @@ instead of formally with an emphasis on precision; if you want a precise definit
 
 1. **A set can have sets as members.**
     
-    {1} is a set; so is {{1}, {}, {84, 5}}; so is {1, {1, {}}, {{1}}, {{{2, {3}}}}}; so is the set of all two-element sets.
+    {1} is a set; so is {{1}, {}, {84, 5}}; so is {1, {1, {}}, {{1}}, {{{2, {3}}}}}; so is the set of all two-element sets of integers^[...but not the "set of all sets"; due to a paradox created by allowing such things, math was redefined to no longer make "all sets" meaningful].
     
     Note that having sets inside other sets does not change any of the other rules.
     Thus {{1,2}, {2,1}} is nonsensical for the same reason {2, 2} is nonsensical: we wrote it as if it made sense to say the same value was a member of the set twice.
