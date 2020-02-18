@@ -148,10 +148,11 @@ lectures:
     - sets
     - sets
 
-    - cardinality
-
-    - [contradiction, induction]
     - induction
+    - induction
+
+    - primes
+    - contradiction
 
     - summation
     - combination
@@ -162,11 +163,11 @@ lectures:
     - state machines
     - state machines
 
-    - primes
+    - logs
     - logs
     
-    - graphs
-    - graphs
+    - functions
+    - functions
 
     - and beyond
     
