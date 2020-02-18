@@ -82,7 +82,7 @@ figcaption { text-align: center; font-weight: bold; margin-top: 1ex; }
 .floater img, figure img { max-width: 100%; }
 
 pre,code { background: rgba(0,0,0,0.04); border: 0.125ex solid rgba(0,0,0,0.12); border-radius: 0.5ex; white-space: pre-wrap; hyphens:none; }
-pre > code { border: none; background:none; }
+pre > code, .proof code, .proof pre { border: none; background:none; }
 pre { display:table; }
 
 
