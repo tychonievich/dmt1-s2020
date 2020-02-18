@@ -525,7 +525,7 @@ assignments:
             human:
                 - q1 has symbol key, including "known by" and "me"
                 - q1 ∃ person ∀ people, people knows person
-                - q1 ... and me knows person
+                - q1 ... and person knows me
                 - q2 expressed in prose
                 - q2 roughly follows outline
     IQ04-2:
