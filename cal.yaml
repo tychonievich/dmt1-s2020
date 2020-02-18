@@ -449,6 +449,22 @@ assignments:
                 - q4 applies rules correctly
     IQ03:
         due: 2020-02-07 10:50:00
+        rubric: 
+            kind: hybrid
+            auto-weight: 0
+            auto-late-days: 0
+            late-penalty: 1
+            human:
+                - (IQ03-1) q1 "something" as ∃ x . F(x)
+                - (IQ03-1) q1 and q3 "nothing" as ∄ x . G(x)
+                - (IQ03-1) q2 "some" as ∃x . P(x) ∧ Q(x)
+                - (IQ03-1) q2 and q3 "all" as ∀x . Q(x) → R(x)
+                - (IQ03-1) q3 "no" as ∄x . Q(x) ∧ P(x)
+                - (IQ03-2) q4 ∄x . M(x) ∧ A(x)
+                - (IQ03-2) q5 ∀x . […] → L(s,x)
+                - (IQ03-2) q5 both A(x) and L(x,h) in antecedent
+                - (IQ03-2) q6 ∀x . ∃y .
+                - (IQ03-2) q6 z(x) → (L(x,y) ∧ L(y,x))
 
     IQ03-1:
         due: 2020-02-07 10:50:00
@@ -481,6 +497,35 @@ assignments:
 
     IQ04:
         due: 2020-02-14 10:50:00
+    IQ04-1:
+        hide: true
+        due: 2020-02-14 10:50:00
+        weight: 5
+        rubric: 
+            kind: hybrid
+            auto-weight: 0
+            auto-late-days: 0
+            late-penalty: 1
+            human:
+                - q1 has symbol key, including "known by" and "me"
+                - q1 ∃ person ∀ people, people knows person
+                - q1 ... and me knows person
+                - q2 expressed in prose
+                - q2 roughly follows outline
+    IQ04-2:
+        hide: true
+        due: 2020-02-14 10:50:00
+        weight: 4
+        rubric: 
+            kind: hybrid
+            auto-weight: 0
+            auto-late-days: 0
+            late-penalty: 1
+            human:
+                - q3 same expression on every underlined blank
+                - q4 valid logic
+                - q5 valid logic
+                - q4 and q5 expressed in prose
     IQ05:
         due: 2020-02-21 10:50:00
     IQ06:
