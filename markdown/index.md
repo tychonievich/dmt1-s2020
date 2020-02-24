@@ -51,11 +51,12 @@ I have no obvious place to list those supplements so I'm listing them here. They
 - [Axioms](axioms.html), being useful tools out of which we build proofs
 - [Guide to Direct Proof](direct.html)
 - [English to Quantifiers](eng2quant.html)
-- [Glossary of logical terms](glossary.html)
 - [Sets primer](sets.html)
+- [induction addenda](induction.html)
 - [Proof Techniques](techniques-q8.html), a list of techniques with tips on proof writing
 - [Logical Reduction](reducibility.html)
-- [§4 addenda](chap4.html)
+- [MCS 4 addenda](chap4.html)
+- [Glossary of logical terms](glossary.html)
 - Example proofs, including [De Morgan's laws](demorgan.html), [bubble sort](bubble.html), [Cantor diagonalization](cantor.html), and [open sets](openset.html)
 - All in-class labs and quizzes from [Fall 2019](files/f2019)
 

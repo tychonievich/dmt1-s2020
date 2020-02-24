@@ -354,6 +354,8 @@ reading:
     induction:
         - "MCS 2"
         - "MCS 5.1–5.3"
+        - txt: addendum
+          lnk: induction.html
     
     summation:
         - "MCS 13.0–13.2"
