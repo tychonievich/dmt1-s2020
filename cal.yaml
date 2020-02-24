@@ -569,6 +569,22 @@ assignments:
                 - q4 and q5 expressed in prose
     IQ05:
         due: 2020-02-21 10:50:00
+        rubric: 
+            kind: hybrid
+            auto-weight: 0
+            auto-late-days: 0
+            late-penalty: 1
+            human:
+                - q1 is {{}, {3}, {4}, {3, 4}}
+                - q2 is {1, 2, 3, 4, 5} with no duplicates
+                - q3 is {2}
+                - q4 has all of A and none of B (i.e., {1, 4})
+                - q5 is {{}, {3}}
+                - q6 is a set of natural numbers = {1,2}
+                - q7 is a subset of B = {2}
+                - q8 is a set of sets = {{2,4}, {3,4}}
+                - q9-11 is 3, 8, 16
+                - q12-14 is ⊥, ⊤, ⊥
     IQ06:
         due: 2020-02-28 10:50:00
     IQ07:
