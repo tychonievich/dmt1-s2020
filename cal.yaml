@@ -258,8 +258,16 @@ reading:
         lnk: files/lab05.pdf
       - txt: lab key
         lnk: files/lab05-key.pdf
+      - txt: quiz
+        lnk: files/quiz05.pdf
+      - txt: key
+        lnk: files/quiz05-key.pdf
 
-    lab06: []
+    lab06:
+      - txt: lab
+        lnk: files/lab06.pdf
+      - txt: lab key
+        lnk: files/lab06-key.pdf
     lab07: []
     lab08: []
     lab09: []
