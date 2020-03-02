@@ -354,8 +354,6 @@ reading:
     contradiction:
         - "MCS 1.8"
         - "MCS 2"
-        - txt: Cantor diagonalization
-          lnk: cantor.html
         - txt: open sets
           lnk: openset.html
 
