@@ -595,7 +595,35 @@ assignments:
                 - q12-14 is ⊥, ⊤, ⊥
     IQ06:
         due: 2020-02-28 10:50:00
-    IQ07:
+    IQ06-1:
+        hide: true
+        due: 2020-02-28 10:50:00
+        weight: 5
+        rubric: 
+            kind: hybrid
+            auto-weight: 0
+            auto-late-days: 0
+            late-penalty: 1
+            human:
+                - base case is f(0) = 0
+                - inductive step assumption is f(x-1) = (x-1)(x)
+                - inductive step follows outline
+                - written in prose
+                - labels cases and principle of induction
+    IQ06-2:
+        hide: true
+        due: 2020-02-28 10:50:00
+        weight: 4
+        rubric: 
+            kind: hybrid
+            auto-weight: 0
+            auto-late-days: 0
+            late-penalty: 1
+            human:
+                - q3 same expression on every underlined blank
+                - q4 valid logic
+                - q5 valid logic
+                - q4 and q5 expressed in prose    IQ07:
         due: 2020-03-06 10:50:00
     IQ08:
         due: 2020-03-20 10:50:00

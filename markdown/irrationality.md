@@ -45,3 +45,19 @@ Case 2: 2 is not a factor of $x$
 
 Because both cases led to a contradiction, assuming $\sqrt{2} \in \mathbb Q$ leads to a contradiction in general, which means it must be the case that $\sqrt{2} \notin \mathbb Q$.
 :::
+
+# Irrational logs
+
+:::theorem
+$\log_2(3) \notin \mathbb Q$
+:::
+
+:::proof
+Assume that $\log_2(3) \in \mathbb Q$.
+That means $\exists x,y \in \mathbb Z \;.\; {x \over y} = \log_2(3)$ where $x$ and $y$ are relatively prime.
+Rearranging, we have $x = \log_2(3) y = \log_2(3^y)$, or $2^x = 3^y$.
+By the fundamental theorem of arithmetic, each number has a unique prime factorization,
+which means that both $2^x$ and $3^y$ must have the same prime factors. But all of $2^x$'s prime factors are 2s and none of $3^y$'s are, which is a contradiction.
+
+Because assuming $\log_2(3) \in \mathbb Q$ leads to a contradiction it must be the case that $\log_2(3) \notin \mathbb Q$.
+:::
