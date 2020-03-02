@@ -354,6 +354,8 @@ reading:
     contradiction:
         - "MCS 1.8"
         - "MCS 2"
+        - txt: irrationals
+          lnk: irrationality.html
         - txt: open sets
           lnk: openset.html
 
