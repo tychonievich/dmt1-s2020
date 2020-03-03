@@ -17,7 +17,7 @@ By the fundamental theorem of arithmetic, each number has a unique prime factori
 which means that both $3x$ and $2$ must have the same prime factors.
 But $3$ is a factor of $3x$ and not a factor of $2$, which is a contradiction.
 
-Because assume that $2 \over 3 \in \mathbb Z$ led to a contradiction, it must be the case that ${2 \over 3} \notin \mathbb Z$.
+Because assume that ${2 \over 3} \in \mathbb Z$ led to a contradiction, it must be the case that ${2 \over 3} \notin \mathbb Z$.
 :::
 
 # Irrational roots

@@ -636,7 +636,7 @@ assignments:
             auto-late-days: 0
             late-penalty: 1
             human:
-                - base case is f(x) terminates
+                - base case is f(0) terminates
                 - inductive step makes assumption
                 - inductive step appeals to f(x-1) termination
                 - no logical errors
