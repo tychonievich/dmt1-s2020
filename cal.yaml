@@ -273,7 +273,7 @@ reading:
       - txt: key
         lnk: files/quiz06-key.pdf
 
-    lab06:
+    lab07:
       - txt: lab
         lnk: files/lab07.pdf
       - txt: lab key
