@@ -595,6 +595,22 @@ assignments:
                 - q12-14 is ⊥, ⊤, ⊥
     IQ06:
         due: 2020-02-28 10:50:00
+        rubric: 
+            kind: hybrid
+            auto-weight: 0
+            auto-late-days: 0
+            late-penalty: 1
+            human:
+                - base case is f(0) = 0
+                - inductive step assumption is f(x-1) = (x-1)(x)
+                - inductive step follows outline
+                - written in prose
+                - labels cases and principle of induction
+                - base case is f(0) terminates
+                - inductive step makes assumption
+                - inductive step appeals to f(x-1) termination
+                - no logical errors
+                - readable (prose and/or symbolic math)
     IQ06-1:
         hide: true
         due: 2020-02-28 10:50:00
