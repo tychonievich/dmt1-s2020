@@ -57,6 +57,6 @@ I have no obvious place to list those supplements so I'm listing them here. They
 - [Logical Reduction](reducibility.html)
 - [MCS 4 addenda](chap4.html)
 - [Glossary of logical terms](glossary.html)
-- Example proofs, including [De Morgan's laws](demorgan.html), [bubble sort](bubble.html), [Cantor diagonalization](cantor.html), and [open sets](openset.html)
+- Example proofs, including [De Morgan's laws](demorgan.html), [bubble sort](bubble.html), [Cantor diagonalization](cantor.html), [open sets](openset.html), [irrationality of various numbers](irrationality.html)
 - All in-class labs and quizzes from [Fall 2019](files/f2019)
 
