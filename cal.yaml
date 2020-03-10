@@ -65,11 +65,7 @@ office hours:
           end: 17:30:00
           where: Rice 442
     Sarah:
-      when:
-        - dow: Thursday
-          start: 11:00:00
-          end: 14:00:00
-          where: Rice 442
+      when: []
     Annie:
       when:
         - dow: Tuesday
