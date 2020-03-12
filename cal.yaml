@@ -7,7 +7,7 @@ Special Dates:
   MLK break: 2020-01-20
   Spring recess:
     start: 2020-03-07
-    end: 2020-03-15
+    end: 2020-03-19
 
 meta:
   timezone: America/New_York
@@ -688,6 +688,7 @@ assignments:
 
     IQ08:
         due: 2020-03-20 10:50:00
+        title: logistics of quizzes TBD
     IQ09:
         due: 2020-03-27 10:50:00
     IQ10:
