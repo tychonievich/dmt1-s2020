@@ -2,6 +2,53 @@
 title: Discrete Mathematics
 ...
 
+# Teaching Continuity
+
+As of March 19, this course will be taught online. Here's how we plan to make that work. This may change if we determine better approaches to some elements.
+
+Lectures
+:   We'll try doing these via zoom. The time is unchanged from our usual lecture time (MoWeFr 10:00 EDT). The link to join is <https://virginia.zoom.us/j/273905137>. You will be muted upon joining; please un-mute only to ask a question.
+    
+    I plan to attempt doing "turn to your neighbor" parts of class via a feature called zoom breakout rooms. I have never done these at that scale, so we might have to adjust as we go.
+    
+    Lectures will still be recorded and posted to the website as usual.
+    
+    I am uncertain of the efficacy of this model. We may swap to having prerecorded lecture segments instead and use lecture time as additional professor office hours.
+
+Labs
+:   I'll still post practice exercises. But we will not use lecture time for one-on-one help; instead, I'll use most Fridays to do Q&A and work examples.
+
+In-class quizzes
+:   - Will become open-note (but still do-on-your-own).
+    - Will still be limited to a 20-minute time window.
+    - We'll post the problem prompts. You'll write the answers on paper, take a picture or scan of the paper, and upload it.
+
+Online quizzes
+:   Unchanged
+
+Professor Office Hours
+:   Will occur via zoom. The link to join is <>. During scheduled office hours times, anyone who comes in will be in the same zoom room, If you have personal matters to discuss, email me about a different time to meet.
+
+TA Office Hours
+:   We'll adopt an online queuing system. The process will work as follows:
+    
+    - You will create a meeting room via google meetings (<https://meeet.google.com>) or zoom (<https://zoom.us>)
+    - You will add yourself to the queue (<https://kytos.cs.virginia.edu/ohq/?c=dmt1>) and enter the URL of your meeting room as the location
+    - A TA will join your room and offer help
+    
+    You are welcome to come in groups by inviting other students to your meeting room.
+
+    If a more text-oriented help will suffice, we recommend using Piazza.
+
+Accommodations, grading, etc
+:   We expect this transition to be bumpy in various ways. Please feel free to use email, Piazza, or Collab's Anonymous Feedback tool to let me know of any issues. We'll do our best to work through them.
+    
+    I have a lot of experience teaching in-person, but very little teaching online. As such, I will be watching for signs of decreased instructional effectiveness and may decrease course expectations so that course grades are not decreased by my inexperience with this teaching medium.
+    
+    If you have a proposal for a different approach to how a component of this course could go, I'd welcome that suggestion.
+
+
+
 # Course Overview 
 
 This is one offering of Discrete Mathematics,
