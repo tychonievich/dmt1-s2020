@@ -174,7 +174,7 @@ labs:
     - lab05
     - lab06
     - lab07
-    - data types
+    - sequences
     - lab09
     - lab10
     - lab11
@@ -334,6 +334,11 @@ reading:
         - "MCS 4.1–4.4"
         - txt: "MCS 4 addenda"
           lnk: "chap4.html"
+
+    sequences:
+        - "MCS 4.2"
+        - txt: "MCS 4.2 addenda"
+          lnk: "seq.html"
     
     cardinality:
         - "MCS 4.5"
