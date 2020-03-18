@@ -2,28 +2,24 @@
 title: Office Hours
 ...
 
-Professor offices hours are in the professor's office.
-If I'm engaged with a student, don't just wait silently in the hall; ask me if you can come in and join the other student(s) there (often the answer will be yes, and even if no I'll know you are waiting).
 
-{.example ...} How to get help from a professor
-
-1. Find when a professor is free
-2. Go to that professor's office
-3. Come inside, or if it is full make sure the professor knows you are there and are waiting
-{/}
+Professor offices hours are via Zoom: <https://virginia.zoom.us/j/847054967>.
+This is an open room multiple students can visit at once. If you need to interact privately, contact my via email to set up a time.
 
 
-TA office hours are in different locations at different times, as noted in the list of upcoming office hours below.
+TA office hours are in Zoom rooms <https://zoom.us> or Google meetings <https://meet.google.com>
+that students create and then enter into the [office hour queue](https://kytos.cs.virginia.edu/ohq/?c=dmt1).
+The queue is open even when TAs are not present; see below for when to expect TAs in office hours.
 
 {.example ...} How to get help from a TA
 
-1. Find when and where TAs are holding office hours
-2. Go to that location
-3. Look for a sign on a table or other indicator of CS 2102 TA
-4. Approach the TA and ask for help
+1. Create an online meeting
+2. Go to the office hour queue and enter your meeting URL
+3. Stay there until a TA joins it
 {/}
 
 
+<div style="display:table; font-size:200%; margin: 1em auto; padding:1ex; box-shadow: 0 1px 10px rgba(0,0,0,.1); border: thin solid #eee; border-radius:1ex; background-image: linear-gradient(to bottom, #ffffff, #f2f2f2);">[Get TA Help](https://kytos.cs.virginia.edu/ohq/?c=dmt1)</div>
 
 Upcoming office hours (for the next week):
 
