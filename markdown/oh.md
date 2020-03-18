@@ -19,12 +19,14 @@ The queue is open even when TAs are not present; see below for when to expect TA
 {/}
 
 
+
+
 <div style="display:table; font-size:200%; margin: 1em auto; padding:1ex; box-shadow: 0 1px 10px rgba(0,0,0,.1); border: thin solid #eee; border-radius:1ex; background-image: linear-gradient(to bottom, #ffffff, #f2f2f2);">[Get TA Help](https://kytos.cs.virginia.edu/ohq/?c=dmt1)</div>
 
 Upcoming office hours (for the next week):
 
 <table class="oh">
-<thead><tr><th>Day</th><th>Whom</th><th>Where</th><th>Starts</th><th>Ends</th></tr></thead>
+<thead><tr><th>Day</th><th>Whom</th><th>Starts</th><th>Ends</th></tr></thead>
 <tbody id="cal-oh">
 </tbody>
 </table>
@@ -64,7 +66,6 @@ oh_feed.forEach(x => {
     } else {
         entry.innerText = x['title'].replace(/\bOH\b/g, '').trim()
     }
-    tr.insertCell().innerText = x.location
     tr.insertCell().innerText = moment(x.start).format('h:mm a')
     tr.insertCell().innerText = moment(x.end).format('h:mm a')
 })

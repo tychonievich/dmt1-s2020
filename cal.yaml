@@ -39,7 +39,7 @@ office hours:
   .begin: 2020-01-21
   faculty:
     Tychonievich:
-      where: https://virginia.zoom.us/j/847054967
+      where: <https://virginia.zoom.us/j/847054967>
       when:
         - dow: Monday
           start: 15:00:00
