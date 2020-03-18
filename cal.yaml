@@ -163,10 +163,6 @@ lectures:
     - functions
     - functions
 
-    - and beyond
-    
-    - review
-    - review
 
 
 labs:
@@ -178,7 +174,7 @@ labs:
     - lab05
     - lab06
     - lab07
-    - lab08
+    - data types
     - lab09
     - lab10
     - lab11
@@ -269,7 +265,6 @@ reading:
     lab10: []
     lab11: []
     lab12: []
-    lab13: []
 
     welcome: 
       - "MCS Introduction"
@@ -671,17 +666,14 @@ assignments:
                 - readable (prose and/or symbolic math)
 
     IQ08:
-        due: 2020-03-20 10:50:00
-        title: logistics of quizzes TBD
-    IQ09:
         due: 2020-03-27 10:50:00
-    IQ10:
+    IQ09:
         due: 2020-04-03 10:50:00
-    IQ11:
+    IQ10:
         due: 2020-04-10 10:50:00
-    IQ12:
+    IQ11:
         due: 2020-04-17 10:50:00
-    IQ13:
+    IQ12:
         due: 2020-04-27 10:50:00
         weight: 0
 

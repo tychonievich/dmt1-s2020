@@ -6,7 +6,7 @@ title: Policies
 
 ## Meetings
 
-We will meet Monday, Wednesday, and Friday, 10:00–10:50, in Rice 130.
+We will meet Monday, Wednesday, and Friday, 10:00–10:50, online.
 
 Monday and Wednesday lecture is optional, but strongly encouraged.
 Friday lecture will often be used for in-class evaluation:
@@ -32,8 +32,7 @@ At the end of the semester, you will also be able to take a final quiz, which is
 |        | Instructor | TAs |
 |--------|------------|-----|
 | Name | Luther Tychonievich | Emily Feng, Zachary Heidel, Jack Herd, Abrar Majidi Idrissi, Sarah Meng, Nathaniel Saxe, Annie Zhu |
-| Location | Rice 208 | TBA |
-| Office Hours | Mo 3-4; Tu 10-11; We 11-12; Th 2-3 | TBA |
+| Office Hours | Mo 3-4; Tu 10-11; We 11-12; Th 2-3 | see the [office hour page](oh.html) |
 | Phone | 243-3789 | (none) |
 | Email | <a href="mailto:tychonievich@virginia.edu?subject=DMT1">tychonievich@virginia.edu</a> | use [Piazza](https://piazza.com/class/k570zgryaf544) |
 
