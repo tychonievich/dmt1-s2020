@@ -54,16 +54,15 @@ office hours:
           start: 14:00:00
           end: 15:00:00
   TA:
+    where: zoom or meet
     Abrar:
       when:
         - dow: Thursday
           start: 11:00:00
           end: 12:00:00
-          where: Rice 442
         - dow: Thursday
           start: 15:30:00
           end: 17:30:00
-          where: Rice 442
     Sarah:
       when: []
     Annie:
@@ -71,73 +70,58 @@ office hours:
         - dow: Tuesday
           start: 17:00:00
           end: 18:00:00
-          where: Rice 442
         - dow: Thursday
           start: 14:00:00
           end: 17:00:00
-          where: Rice 442
         - dow: Friday
           start: 11:00:00
           end: 12:00:00
-          where: Rice 442
     Nathaniel:
       when:
         - dow: Thursday
           start: 15:30:00
           end: 17:30:00
-          where: Rice 442
     Zachary:
       when:
         - dow: Sunday
           start: 19:00:00
           end: 20:40:00
-          where: Rice 442
         - dow: Monday
           start: 13:00:00
           end: 13:50:00
-          where: Rice 442
         - dow: Tuesday
           start: 13:55:00
           end: 14:55:00
-          where: Rice 442
         - dow: Wednesday
           start: 13:00:00
           end: 13:50:00
-          where: Rice 442
         - dow: Thursday
           start: 13:55:00
           end: 16:45:00
-          where: Rice 442
     Emily:
       when:
         - dow: Wednesday
           start: 11:00:00
           end: 13:00:00
-          where: Olsson 001
         - dow: Friday
           start: 17:00:00
           end: 20:00:00
-          where: Olsson 001
     Jack:
       when:
         - dow: Thursday
           start: 11:00:00
           end: 13:50:00
-          where: Rice 442
     Nurani:
       when:
         - dow: Tuesday
           start: 15:00:00
           end: 17:00:00
-          where: Rice 442
         - dow: Wednesday
           start: 14:00:00
           end: 16:00:00
-          where: Rice 442
         - dow: Thursday
           start: 17:00:00
           end: 19:00:00
-          where: Rice 442
 
 
 
