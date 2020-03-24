@@ -654,7 +654,8 @@ assignments:
             human:
                 - q1 quantifiers (some rabbits that all (yellow) snakes)
                 - q1 logic (yellow snakes don't eat)
-                - 18 = 2×3×3; 81 = 3×3×3×3
+                - {name: 18 = 2×3×3, weight: 0.5}
+                - {name: 81 = 3×3×3×3, weight: 0.5}
                 - 2^20 × 3^40
                 - '{1, 3, 7, 9}'
     IQ07-2:
