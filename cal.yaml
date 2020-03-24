@@ -652,8 +652,8 @@ assignments:
             auto-late-days: 0
             late-penalty: 1
             human:
-                - q1 some rabbit that all (yellow) snakes
-                - q1 yellow snakes don't eat / eating snakes are not yellow
+                - q1 quantifiers (some rabbits that all (yellow) snakes)
+                - q1 logic (yellow snakes don't eat)
                 - 18 = 2×3×3; 81=81
                 - 2^20 × 3^40
                 - '{1, 3, 7, 9}'
