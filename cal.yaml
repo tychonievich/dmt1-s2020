@@ -417,6 +417,7 @@ assignments:
         due: 2020-03-25 11:00:00
         timelimit: 20
         pages: 2
+        files: '*.*'
     
     IQ01:
         due: 2020-01-24 10:50:00
