@@ -268,6 +268,10 @@ reading:
         lnk: files/lab08.pdf
       - txt: lab key
         lnk: files/lab08-key.pdf
+      - txt: quiz
+        lnk: files/quiz08.pdf
+      - txt: quiz key
+        lnk: files/quiz08-key.pdf
 
     lab09: []
     lab10: []
@@ -713,19 +717,7 @@ assignments:
 
     IQ08:
         due: 2020-03-27 10:50:00
-        rubric: 
-            kind: hybrid
-            auto-weight: 0
-            auto-late-days: 0
-            late-penalty: 1
-            human:
-                - base case includes n=1
-                - base case math correct
-                - inductive step assumes theorem at some n
-                - inductive step attempts to show theorem at some n+1
-                - inductive step changes bounds of summation properly
-                - inductive step math correct
-                - conclusion stated
+        weight: 0
     IQ09:
         due: 2020-04-03 10:50:00
     IQ10:
