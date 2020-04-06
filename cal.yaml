@@ -401,6 +401,8 @@ reading:
         - "MCS 5.4"
     primes:
         - "MCS 8.0–8.7"
+    functions:
+        - "MCS 4.3–4.4"
     logs:
         - txt: wikipedia
           lnk: https://en.m.wikipedia.org/wiki/Logarithm
