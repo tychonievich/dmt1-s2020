@@ -279,9 +279,9 @@ reading:
         lnk: files/lab09.pdf
       - txt: lab key
         lnk: files/lab09-key.pdf
-      - txt: lab
+      - txt: quiz
         lnk: files/quiz09.pdf
-      - txt: lab key
+      - txt: quiz key
         lnk: files/quiz09-key.pdf
 
     lab10: []
