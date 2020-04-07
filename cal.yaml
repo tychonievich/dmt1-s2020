@@ -733,6 +733,38 @@ assignments:
     IQ09:
         due: 2020-04-03 10:50:00
         link: https://kytos.cs.virginia.edu/dmt1/quizzes/
+
+    IQ09-1:
+        hide: true
+        due: 2020-03-06 10:50:00
+        weight: 5
+        rubric: 
+            kind: hybrid
+            auto-weight: 0
+            auto-late-days: 0
+            late-penalty: 1
+            human:
+                - q1 2^10
+                - q2 10 choose 6
+                - q3 26 * 36^5
+                - q4 6/6^3
+                - q5 6!/2! - 1
+    IQ09-2:
+        hide: true
+        due: 2020-03-06 10:50:00
+        weight: 5
+        rubric: 
+            kind: hybrid
+            auto-weight: 0
+            auto-late-days: 0
+            late-penalty: 1
+            human:
+                - base case includes n=0
+                - base case logic right
+                - inductive step assumes at some n
+                - algebra correct
+                - proof correct
+
     IQ10:
         due: 2020-04-10 10:50:00
     IQ11:
