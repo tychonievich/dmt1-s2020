@@ -739,16 +739,16 @@ assignments:
             auto-late-days: 0
             late-penalty: 1
             human:
-                - q1 2^10
-                - q2 10 choose 6
-                - q3 26 * 36^5
-                - q4 6/6^3
-                - q5 6!/2! - 1
-                - base case includes n=0
-                - base case logic right
-                - inductive step assumes at some n
-                - algebra correct
-                - proof correct
+                - (IQ09-1) q1 2^10
+                - (IQ09-1) q2 10 choose 6
+                - (IQ09-1) q3 26 * 36^5
+                - (IQ09-1) q4 6/6^3
+                - (IQ09-1) q5 6!/2! - 1
+                - (IQ09-2) base case includes n=0
+                - (IQ09-2) base case logic right
+                - (IQ09-2) inductive step assumes at some n
+                - (IQ09-2) algebra correct
+                - (IQ09-2) proof correct
 
     IQ09-1:
         hide: true
