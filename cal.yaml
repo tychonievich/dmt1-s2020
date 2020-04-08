@@ -284,7 +284,12 @@ reading:
       - txt: quiz key
         lnk: files/quiz09-key.pdf
 
-    lab10: []
+    lab10:
+      - txt: lab
+        lnk: files/lab10.pdf
+      - txt: lab key
+        lnk: files/lab10-key.pdf
+
     lab11: []
     lab12: []
 
