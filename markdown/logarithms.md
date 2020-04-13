@@ -82,7 +82,7 @@ $\displaystyle \log_a(b) = \frac{\log_b(b)}{\log_b(a)}$; since $b^1 = b$, $\log_
 
 How much larger is the log of $x$ than the log of $1000 x$? It is larger, but only by a fixed additive amount.
 
-{.example} Since $\log_{10}(x)$ is the number of digits needed to represent $x$, and $1000 \times x$ requires exactly three more digits, it must be the case that $\log_{10}(1000 \times x) = 3 + $\log_{10}(x) = \log_{10}{1000} + \log_{10}{x}$
+{.example} Since $\log_{10}(x)$ is the number of digits needed to represent $x$, and $1000 \times x$ requires exactly three more digits, it must be the case that $\log_{10}(1000 \times x) = 3 + \log_{10}(x) = \log_{10}{1000} + \log_{10}{x}$
 
 {.example} If $\log_{3}(81 \times x) = y$ then $3^y = 81 \times x = 3^4 \times x$ meaning $3^{y-4} = x$; thus $\log_{3}(x) = y-4 = \log_{3}(81 \times x) - 4 = \log_{3}(81 \times x) - \log_3{81}$
 
