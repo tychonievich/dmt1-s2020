@@ -801,7 +801,7 @@ assignments:
             late-penalty: 1
             human:
                 - q1 ∃t
-                - q1 two programs exist
+                - q1 addresses conservativeness and completeness
                 - q2 ∄t∀p or ∀t¬∀p or ∀t∃p
                 - q2 perfect as B(p)↔B(p,t) or equivalent
                 - q3 every test handles some program
