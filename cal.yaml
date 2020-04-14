@@ -806,10 +806,10 @@ assignments:
                 - q2 perfect as B(p)↔B(p,t) or equivalent
                 - q3 every test handles some program
                 - q4 some test handles every program
-                - q6 example is ℚ→ℚ and total
-                - q6 example is injective and not surjective
-                - q7 example is ℚ→ℕ and total
-                - q7 example is surjective
+                - q5 example is ℚ→ℚ and total
+                - q5 example is injective and not surjective
+                - q6 example is ℚ→ℕ and total
+                - q6 example is surjective
                 
     IQ11:
         due: 2020-04-17 10:50:00
