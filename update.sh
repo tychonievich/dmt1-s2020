@@ -3,7 +3,7 @@
 here="$(dirname "$(readlink -m "$0")")/"
 self="$(readlink -m "$0")"
 cd "$here"
-target="$HOME/public_html/DMT1/S2020/"
+target="$HOME/dmt/backup/"
 
 if ls ~/.local/pandoc*/bin/pandoc
 then pd="$(ls  ~/.local/pandoc*/bin/pandoc | tail -1)"
