@@ -3,7 +3,7 @@
 here="$(dirname "$(readlink -m "$0")")/"
 self="$(readlink -m "$0")"
 cd "$here"
-target="$HOME/dmt/backup/"
+target="$HOME/public_html/DMT1/S2020/"
 
 if ls ~/.local/pandoc*/bin/pandoc
 then pd="$(ls  ~/.local/pandoc*/bin/pandoc | tail -1)"
@@ -113,8 +113,8 @@ if [ cal.yaml -nt schedule.html ] \
 then
     echo "doing schedule"
     python3 cal2html.py
-    cp "assignments.json" "/var/www/html/dmt1/meta/"
-    cp "coursegrade.json" "/var/www/html/dmt1/meta/"
+    scp "assignments.json" "kytos.cs.virginia.edu:/var/www/html/dmt1/meta/"
+    scp "coursegrade.json" "kytos.cs.virginia.edu:/var/www/html/dmt1/meta/"
 fi
 if [ schedule.html -nt markdown/schedule.md ]
 then
