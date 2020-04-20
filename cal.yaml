@@ -816,8 +816,6 @@ assignments:
                 - q6 example is ℚ→ℕ and total
                 - q6 example is surjective
                 
-    IQ11:
-        due: 2020-04-20 10:50:00
     IQ12:
         due: 2020-04-27 10:50:00
         weight: 0
@@ -844,6 +842,4 @@ assignments:
         due: 2020-04-06 08:30:00
     OQ10:
         due: 2020-04-13 08:30:00
-    OQ11:
-        due: 2020-04-24 08:30:00
         
