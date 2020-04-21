@@ -105,8 +105,6 @@ readings can be <input type="button" value="shown" onclick="document.querySelect
 </p>
 
 
-As part of a server crash on 2020-04-16, all lecture recordings on the server were lost. I have placed those I had in external backups into [collab's resources page](https://collab.its.virginia.edu/portal/site/b669dcb5-1dc0-43d3-8cc2-68a028a42150/tool/f516709d-5be8-434d-9357-3adbd8af7d8c)
-
 {#include schedule.html}
 
 
