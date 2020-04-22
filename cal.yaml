@@ -426,9 +426,6 @@ reading:
           lnk: https://en.m.wikipedia.org/wiki/Logarithm
         - txt: writeup
           lnk: logarithms.html
-    review:
-        - txt: topic breakdown
-          lnk: lectures/topics.txt
 
     make-up:
         - txt: quiz
