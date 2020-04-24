@@ -118,7 +118,7 @@ Quiz 12 will be optional, a chance to make up one of the four topical areas.
 All four areas will be available, but you will only be able to submit one (or none) of them.
 It will be a 45-minute exam in the normal class time on the normal quizzing site.
 
-The final exam will be on the day stated by the registrar, which is <a href="https://www2.virginia.edu/registrar/exams.html#1202">Thursday 30 April at 9:00 am</a>—to provide time-zone and related flexibility, we'll ignore the "9:00 am" part of that and give you 3 hours to take it anytime between 2020-04-30 00:00:00 EDT and 2020-04-30 23:59:59 EDT (once you start, you've got 3 hours to finish, and have to finish before 23:59:50).
+The final exam will be on the day stated by the registrar, which is <a href="https://www2.virginia.edu/registrar/exams.html#1202">Thursday 30 April at 9:00 am</a>—to provide time-zone and related flexibility, we'll ignore the "9:00 am" part of that and give you 3 hours to take it anytime between 2020-04-30 00:00 EDT and 2020-04-30 23:59 EDT (once you start, you've got 3 hours to finish, and have to finish before 23:59).
 All four areas will be available, and you can submit as many or few as you wish.
 Those you do submit will be graded and replace your grade in the appropriate topics.
 It will be administered via the normal quizzing site.
