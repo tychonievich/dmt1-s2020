@@ -4,6 +4,8 @@ title: Fall 2019 labs, quizzes, and rubrics
 
 Following are the labs, in-class quizzes, quiz keys, and quiz grading rubrics used in the Fall 2019 offering of this course.
 
+See also [Spring 2020's quizzes)[../s2020/].
+
 <style>
     details { border: thin solid black; border-radius: 1ex; padding: 1ex; }
     details + details { margin-top: 0.5ex; }
