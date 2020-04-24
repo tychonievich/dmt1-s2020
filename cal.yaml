@@ -306,7 +306,7 @@ reading:
     
     review:
         - txt: past labs and quizzes
-        - lnk: files/s2020/
+          lnk: files/s2020/
 
     welcome: 
       - "MCS Introduction"
