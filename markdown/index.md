@@ -106,4 +106,5 @@ I have no obvious place to list those supplements so I'm listing them here. They
 - [Glossary of logical terms](glossary.html)
 - Example proofs, including [De Morgan's laws](demorgan.html), [bubble sort](bubble.html), [Cantor diagonalization](cantor.html), [open sets](openset.html), [irrationality of various numbers](irrationality.html)
 - All in-class labs and quizzes from [Fall 2019](files/f2019)
+- All in-class labs and quizzes from [Spring 2020](files/f2020)
 

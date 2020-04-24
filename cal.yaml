@@ -303,6 +303,10 @@ reading:
         lnk: files/lab11-key.pdf
 
     lab12: []
+    
+    review:
+        - txt: past labs and quizzes
+        - lnk: files/s2020/
 
     welcome: 
       - "MCS Introduction"
