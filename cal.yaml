@@ -818,7 +818,48 @@ assignments:
                 - q5 example is injective and not surjective
                 - q6 example is ℚ→ℕ and total
                 - q6 example is surjective
-                
+    
+    q12-logic:
+        due: 2020-04-27 11:00:00
+        hide: true
+        rubric: 
+            kind: hybrid
+            auto-weight: 0
+            auto-late-days: 0
+            late-penalty: 1
+            human:
+                - showed mastery
+    q12-proofs:
+        due: 2020-04-27 11:00:00
+        hide: true
+        rubric: 
+            kind: hybrid
+            auto-weight: 0
+            auto-late-days: 0
+            late-penalty: 1
+            human:
+                - showed mastery
+    q12-structures:
+        due: 2020-04-27 11:00:00
+        hide: true
+        rubric: 
+            kind: hybrid
+            auto-weight: 0
+            auto-late-days: 0
+            late-penalty: 1
+            human:
+                - showed mastery
+    q12-numbers:
+        due: 2020-04-27 11:00:00
+        hide: true
+        rubric: 
+            kind: hybrid
+            auto-weight: 0
+            auto-late-days: 0
+            late-penalty: 1
+            human:
+                - showed mastery
+    
     IQ12:
         due: 2020-04-27 10:50:00
         weight: 0
