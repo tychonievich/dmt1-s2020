@@ -821,7 +821,7 @@ assignments:
     
     q12-logic:
         due: 2020-04-27 11:00:00
-        hide: true
+        optional: true
         rubric: 
             kind: hybrid
             auto-weight: 0
@@ -831,7 +831,7 @@ assignments:
                 - showed mastery
     q12-proofs:
         due: 2020-04-27 11:00:00
-        hide: true
+        optional: true
         rubric: 
             kind: hybrid
             auto-weight: 0
@@ -841,7 +841,7 @@ assignments:
                 - showed mastery
     q12-structures:
         due: 2020-04-27 11:00:00
-        hide: true
+        optional: true
         rubric: 
             kind: hybrid
             auto-weight: 0
@@ -851,7 +851,7 @@ assignments:
                 - showed mastery
     q12-numbers:
         due: 2020-04-27 11:00:00
-        hide: true
+        optional: true
         rubric: 
             kind: hybrid
             auto-weight: 0
