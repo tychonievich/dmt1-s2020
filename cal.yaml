@@ -860,6 +860,46 @@ assignments:
             human:
                 - showed mastery
     
+    final-logic:
+        due: 2020-04-30 23:59:00
+        hide: true
+        rubric: 
+            kind: hybrid
+            auto-weight: 0
+            auto-late-days: 0
+            late-penalty: 1
+            human:
+                - showed mastery
+    final-proofs:
+        due: 2020-04-30 23:59:00
+        hide: true
+        rubric: 
+            kind: hybrid
+            auto-weight: 0
+            auto-late-days: 0
+            late-penalty: 1
+            human:
+                - showed mastery
+    final-structures:
+        due: 2020-04-30 23:59:00
+        hide: true
+        rubric: 
+            kind: hybrid
+            auto-weight: 0
+            auto-late-days: 0
+            late-penalty: 1
+            human:
+                - showed mastery
+    final-numbers:
+        due: 2020-04-30 23:59:00
+        hide: true
+        rubric: 
+            kind: hybrid
+            auto-weight: 0
+            auto-late-days: 0
+            late-penalty: 1
+            human:
+                - showed mastery
     IQ12:
         due: 2020-04-27 10:50:00
         weight: 0
