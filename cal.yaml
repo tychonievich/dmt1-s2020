@@ -862,7 +862,7 @@ assignments:
     
     final-logic:
         due: 2020-04-30 23:59:00
-        hide: true
+        optional: true
         rubric: 
             kind: hybrid
             auto-weight: 0
@@ -872,7 +872,7 @@ assignments:
                 - showed mastery
     final-proofs:
         due: 2020-04-30 23:59:00
-        hide: true
+        optional: true
         rubric: 
             kind: hybrid
             auto-weight: 0
@@ -882,7 +882,7 @@ assignments:
                 - showed mastery
     final-structures:
         due: 2020-04-30 23:59:00
-        hide: true
+        optional: true
         rubric: 
             kind: hybrid
             auto-weight: 0
@@ -892,7 +892,7 @@ assignments:
                 - showed mastery
     final-numbers:
         due: 2020-04-30 23:59:00
-        hide: true
+        optional: true
         rubric: 
             kind: hybrid
             auto-weight: 0
