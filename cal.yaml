@@ -313,6 +313,8 @@ reading:
       - "∀x 1.0"
       - txt: on proofs
         lnk: proofs.html
+      - txt: course diagram
+        lnk: course.svg
     real maths:
         lnk: https://medium.com/@jeremyjkun/habits-of-highly-mathematical-people-b719df12d15e
         txt: six habits
